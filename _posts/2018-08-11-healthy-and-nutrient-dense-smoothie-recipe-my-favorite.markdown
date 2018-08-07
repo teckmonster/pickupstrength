@@ -54,11 +54,10 @@ I do see that my nails are getting healthier and my hair is growing so long that
 
 Until then, see you next time!
 
-***
 
 ❤ tm
 
-***
+
 
 #### Featured Brands I Use
 

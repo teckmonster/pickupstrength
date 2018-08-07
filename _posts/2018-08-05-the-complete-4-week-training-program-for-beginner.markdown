@@ -36,4 +36,5 @@ Hip Thrust
 * You might start to feel soreness if you have never been doing strength training prior. Don’t let the pain stop you.
 * You will see improvement and see the result.
 
+
 ❤ tm

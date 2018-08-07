@@ -25,8 +25,7 @@ Pick Up Strength is an outlet to express myself, my perspective through differen
 
 I felt that there is a piece of me that I am always fear in pursuing and haunted me for life is to be seen, to be known, to be me due to my fear of expressing myself. In this place, I now stop all my hesitation, anxiety, and doubt and share my journey with you. Please join me to unleash your strength.  
 
-***
 
 ❤ tm
 
-***
+
