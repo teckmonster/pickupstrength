@@ -5,6 +5,8 @@ date: 2018-08-05 21:13:18 +0200
 image: 9.jpg
 tags: [strength training, strong, beginner]
 categories: strength
+permalink: /:title/
+description: The Complete 4-Week Training Program For Beginner
 ---
 #### S T R E N G T H
 
