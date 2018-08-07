@@ -11,7 +11,7 @@ I am tm, the creator of Pick Up Strength and currently reside in the United Stat
 
 I graduated from Georgia Tech with a degree in Industrial Engineering in 2013 and currently working in the business and data analytics fields. I love to code, weightlift, and backpack in the wilderness. My ongoing goals are to share more content in Pick Up Strength.
 
-I grew up with my grandparents in the countryside a couple of hours away from Kuala Lumpur in Malaysia. I am always curious about things and enjoy learning how things work from start to finish. I immigrated to the United States with my family at the age of 15. It was a drastic change in my life. I was lost and struggled with life.
+I grew up with my grandparents in the countryside a couple of hours away from Kuala Lumpur in Malaysia. I am always curious about things and enjoy learning how things work from start to finish. I immigrated to the United States with my family at the age of 15. It was a drastic change in my life and I had to redefine myself, my purpose of life in a new country. I was lost and struggled with life.
 
 Coming to this new country without knowing the primary spoken language very well, I had trouble expressing my feeling, the curious mind that I had, had no place to be. I had the problem of asking questions and feared that no one could understand me. I felt lost in translation for many years.
 

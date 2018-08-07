@@ -14,9 +14,11 @@ Two years ago, when I first started to bring smoothie into my diet, I did not kn
 
 At the time, I thought it is going to be great! I will get a boost of lots of vitamin C and antioxidant. Healthy Smoothie. Younger face right? 
 
-I did something wrong with my nutrition because I always felt fatigue and my fiance told me I wasn't getting enough protein in my diet considering I tried to lift weights. I found out that the smoothie that I had had zero protein. I mean zero. It is all carbs. :(
+Getting the right amount of nutrients to support my lifting session has been a struggle. I wasn't getting enough protein that my body needed. I always felt fatigued, and my training suffered. My fiance mentioned that I wasn't getting enough protein in my diet. The smoothie that I like to make had zero protein. I mean zero. It is all carbs. :( I have to listen and make some changes. 
 
-I am not a big fan of peanut butter banana with two scoops of whey protein powder and blend it with ice. It is the go two smoothie my fiance loved. I didn't like whey protein powder in my smoothie, in fact, it gave me terrible stomach pain, bloating, gas, cramps for two months then I later found out that I have a problem digesting whey protein. His mom suggested some of the plant-based powder. Garden of Life, Sun Warrior, and Vega, I tried it all. It is either they are too sweet and has a weird texture.
+I am not a big fan of peanut butter and banana with two scoops of whey protein powder and blend it with ice. It is the go two smoothie my fiance loved. I didn't like whey protein powder in my smoothie, in fact, it gave me terrible stomach pain, bloating, gas, cramps for two months then I later found out that I have a problem digesting whey protein. His mom suggested some of the plant-based powder she is using. I tried Garden of Life, Sun Warrior, and Vega and they are either way too sweet and has a weird texture.
+
+I start to read nutrition books and continue doing my research in protein powder that will work for me, and the rest is history that I will blog about next time.
 
 #### Ingredients
 
@@ -40,7 +42,23 @@ One serving with x Protein, x Carbs, x Fat.
 
 Place all the ingredients in a high-speed blender and blend until desired consistency. I like to put liquid in the blender cup first!
 
+I finally found my favorite protein powder. It is the Vital Proteins Collagen Peptides. It is pasture-raised, grass-fed, non-GMO, and Kosher. Their collagen powder is soluble in cold and hot liquids, and you can put them in coffee or mixed into a smoothie.
 
+These are some of the benefits of collagen peptides listed on their site:
+
+* promote youthful skin, healthier hair, and stronger nails
+* helps keeps bones healthy and supports joint health
+* whole 30 Approved, Gluten Free, Dairy Free
+
+I do see that my nails are getting healthier and my hair is growing so long that I need a trim soon.
+
+Until then, see you next time!
+
+***
+
+❤ tm
+
+***
 
 #### Featured Brands I Use
 
