@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Healthy and Nutrient-Dense Smoothie Recipe - My Favorite"
-date: 2018-08-05 20:13:18 +0200
+title: "Healthy & Nutrient-Dense Smoothie Recipe » My All Time Favorite"
+date: 2018-08-01 20:13:18 +0200
 image: smoothie-3.jpg
 tags: [smoothie, recipe]
 categories: nutrition
@@ -57,7 +57,7 @@ Until then, see you next time!
 
 ❤ tm
 
-
+***
 
 #### Featured Brands I Use
 

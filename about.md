@@ -28,4 +28,6 @@ I felt that there is a piece of me that I am always fear in pursuing and haunted
 
 ❤ tm
 
+***
 
+<script type="text/javascript" src="//downloads.mailchimp.com/js/signup-forms/popup/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script><script type="text/javascript">require(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us19.list-manage.com","uuid":"60ebcb361753fd00c76787553","lid":"d48bb0efd3"}) })</script>
