@@ -3,7 +3,7 @@ layout: post
 title: "The 7 Best Glutes Exercises To Grow You Glute » How To Target Booty Workout Guide"
 date: 2018-08-05 20:13:18 +0200
 image: glute-booty.jpg
-tags: [training programs, lower body exercises]
+tags: [the 7 best glutes exercies to grow your glute, training programs, lower body exercises]
 categories: strength
 ---
 
