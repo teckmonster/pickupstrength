@@ -5,7 +5,6 @@ date: 2018-08-01 20:13:18 +0200
 image: smoothie-3.jpg
 tags: [smoothie, recipe]
 categories: nutrition
-permalink: /:title/
 description: I have to share my favorite smoothie recipe with you because it has improved my nutrition and protein intake drastically. This smoothie has been my morning fuel for a year now, and it is a well balanced and nutrient dense recipe with macronutrients - protein, healthy fat, and fiber! Depending on your nutrition goals, you can use this recipe and tailor to your needs. The goal is to make sure your smoothie has these macronutrients.
 
 ---

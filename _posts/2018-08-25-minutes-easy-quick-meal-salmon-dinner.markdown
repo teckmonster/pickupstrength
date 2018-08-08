@@ -5,7 +5,6 @@ date: 2018-08-05 20:13:18 +0200
 image: quick-easy-meal-salmon-dinner.jpg
 tags: [nutrition, quick and easy meal, meal prep, healthy dinner, recipe]
 categories: nutrition
-permalink: /:title/
 description: Healthy dinner preparing in 5 minutes. Featured quick and easy salmon dinner
 ---
 

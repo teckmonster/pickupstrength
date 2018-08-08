@@ -5,7 +5,6 @@ date: 2018-08-05 20:13:18 +0200
 image: glute-booty.jpg
 tags: [best glutes exercies to grow your glute, training programs, lower body exercises]
 categories: strength
-permalink: /:title/
 description: best glutes exercies to grow your glute
 ---
 
