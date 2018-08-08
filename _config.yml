@@ -39,7 +39,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
 
-paginate: 2 #7
+paginate: 3 #7
 paginate_path: "/page/:num/"
 
 include:
