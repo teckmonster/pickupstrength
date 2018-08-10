@@ -22,6 +22,8 @@ I am not a big fan of peanut butter and banana with two scoops of whey protein p
 
 I start to read nutrition books and continue doing my research in protein powder that will work for me, and the rest is history that I will blog about next time.
 
+![]({{site.baseurl}}/images/smoothies-healthy-recipe-ingredients.jpg)
+
 #### Ingredients
 
 * 1.5 to 2 cups unsweetened vanilla almond milk
