@@ -16,6 +16,10 @@
       <meta property="og:image" content="{{ site.url }}/{{ page.header-img }}" />
   {% endif %}
 
+  {% if page.images %}
+      <meta property="og:image" content="{{ site.url }}/{{ page.images }}" />
+  {% endif %}
+
   <meta property="og:description" content="{{ page.description }}" />
   <style>
     {% capture include_to_scssify %}
