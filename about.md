@@ -30,7 +30,7 @@ I felt that there is a piece of me that I am always fear in pursuing and haunted
 
 
 ***
-![butterfly]({{site.baseurl}}/images/smoothies-healthy-recipe-ingredients.jpg)
-![butterfly2]({{site.baseurl}}/images/Butterfly-ANIMATION.gif)
+
+![butterfly2](http://pickupstrength.com/images/Butterfly-ANIMATION.gif)
 
 
