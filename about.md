@@ -31,7 +31,7 @@ Be a humble hummingbird,
 
 
 
-![humble-hummingbird](http://pickupstrength.com/images/bill-williams-hummingbird-unsplash.jpg)
+![humble-hummingbird](https://pickupstrength.com/images/bill-williams-hummingbird-unsplash.jpg)
 
 
 
