@@ -4,7 +4,7 @@ title: "Healthy & Nutrient-Dense Smoothie Recipe » My All Time Favorite"
 date: 2018-08-01 20:13:18 +0200
 header-img: "images/smoothie-3.jpg"
 image: smoothie-3.jpg
-tags: [smoothie, recipe]
+tags: [smoothie, recipe, nutribullet]
 categories: nutrition
 description: A well balanced and nutrient dense recipe with macronutrients - protein, healthy fat, and fiber! Depending on your nutrition goals, you can use this recipe and tailor to your needs. The goal is to make sure your smoothie has these macronutrients.
 
@@ -45,7 +45,7 @@ One serving with x Protein, x Carbs, x Fat.
 
 #### Instructions
 
-Place all the ingredients in a high-speed blender and blend until desired consistency. I like to put liquid in the blender cup first!
+Place all the ingredients in a high-speed blender (my favorite by far is the NutriBullet) and blend until desired consistency. I like to put liquid in the blender cup first!
 
 I finally found my favorite protein powder. It is the Vital Proteins Collagen Peptides. It is pasture-raised, grass-fed, non-GMO, and Kosher. Their collagen powder is soluble in cold and hot liquids, and you can put them in coffee or mixed into a smoothie.
 
@@ -79,6 +79,7 @@ Until then, see you next time!
 
 #### Featured Brands I Use
 
+<a target="_blank"  href="https://www.amazon.com/gp/product/B007TIE0GQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B007TIE0GQ&linkCode=as2&tag=pickupstrengt-20&linkId=d58c536248555805feb2414d1bd17a7c"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B007TIE0GQ&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL110_&tag=pickupstrengt-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=pickupstrengt-20&l=am2&o=1&a=B007TIE0GQ" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 <a target="_blank"  href="https://www.amazon.com/gp/product/B00K6JUG4K/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00K6JUG4K&linkCode=as2&tag=pickupstrengt-20&linkId=8039e400227e0f7f6d9230863905221b"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00K6JUG4K&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL110_&tag=pickupstrengt-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=pickupstrengt-20&l=am2&o=1&a=B00K6JUG4K" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 <a target="_blank"  href="https://www.amazon.com/gp/product/B071DBB21X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B071DBB21X&linkCode=as2&tag=pickupstrengt-20&linkId=7c31ec9b3902d4fe782560cd69c8fbd4"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B071DBB21X&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL110_&tag=pickupstrengt-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=pickupstrengt-20&l=am2&o=1&a=B071DBB21X" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 <a target="_blank"  href="https://www.amazon.com/gp/product/B00856TSCC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00856TSCC&linkCode=as2&tag=pickupstrengt-20&linkId=e6b863f88fc4966bb476d00f04ecbc43"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=B00856TSCC&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL110_&tag=pickupstrengt-20" ></a><img src="//ir-na.amazon-adsystem.com/e/ir?t=pickupstrengt-20&l=am2&o=1&a=B00856TSCC" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
