@@ -12,12 +12,13 @@
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css?family=Spectral:400,700" rel="stylesheet">
 
+  <!-- Facebook debuggers -->
   {% if page.header-img %}
       <meta property="og:image" content="{{ site.url }}/{{ page.header-img }}" />
   {% endif %}
 
-  {% if page.images %}
-      <meta property="og:image" content="{{ site.url }}/{{ page.images }}" />
+  {% if page.image %}
+      <meta property="og:image" content="{{ site.url }}/{{ page.image }}" />
   {% endif %}
 
   <meta property="og:description" content="{{ page.description }}" />
@@ -41,10 +42,10 @@
 
 {% if page.image %}
 <meta name="twitter:card"  content="summary_large_image">
-<meta name="twitter:image" content="{{ site.url }}{{ page.image }}">
+<meta name="twitter:image" content="{{ site.url }}/{{ page.image }}">
 {% else %}
 <meta name="twitter:card"  content="summary">
-<meta name="twitter:image" content="{{ site.header-img }}">
+<meta name="twitter:image" content="{{ site.url }}/{{ page.image }}">
 {% endif %}
 <!-- end of Twitter cards -->
 
