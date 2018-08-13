@@ -34,7 +34,7 @@ Be a humble hummingbird,
 
 
 ![humble-hummingbird](https://pickupstrength.com/images/bill-williams-hummingbird-unsplash.jpg)
-
+Credit: Photo by Bill Williams. @imwilliamwilliams
 
 
 <!---
