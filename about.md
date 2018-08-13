@@ -2,7 +2,7 @@
 layout: post
 title: "About Pick Up Strength."
 image: 12.jpg
-tags: [welcome, community, about, pickupstrength]
+tags: [welcome, community, about, pickupstrength, curiousity]
 categories: about
 ---
 H E L L O -
@@ -11,13 +11,15 @@ I am tm, the creator of Pick Up Strength and currently reside in the United Stat
 
 I graduated with a degree in Engineering and currently working in the business intelligence and data analytics fields. Outside of my day job, I enjoyed coding with creativity, pick up strength with a barbell, and backpacking in the wilderness, and last but not least, sharing more content in Pick Up Strength.
 
-As I am sitting here and trying to craft the best about page for Pick Up Strength to grab your interests, I don't have one. I don't have one yet. I am still figuring out, and I don't want to put a limit in it of what it will be becoming. However, I do know that I want to create a place for my audiences and myself to grow strong, to explore, to be curious, and to learn from a different perspective and be open-minded to try new things. I guess it is part of the process.
+As I am sitting here and trying to craft the best about page for Pick Up Strength to grab your attention, I don't have one. I don't have one yet. I am still figuring out, and I don't want to put a limit in it of what it will be becoming. However, I do know that I want to create a place for my audiences and myself to grow strong, to explore, to be curious, and to learn from a different perspective and be open-minded to try new things. I guess it is part of the process.
 
 I want to share my stories from my perspective through my special lenses - the conflict interest of being a dual identity, the curious mind I always carry with me as a little girl, the lessons of some boring and tedious paint strokes and strength training I learn, the nerdiness and creativity I develop when I start to code, and more.
 
 In Pick Up Strength, this place will fill with creativity, non-judgment, positivity, and a healthy dose of encouragement and curiosity. I want to help people who have similar barriers and obstacles. Obstacles like in learning a new language, moving to a new place, getting through college, strength training, nutrition, stress management, get a stronger mind and body, etc. I hope that you will learn something new from me and to share with others. 
 
-The one thing I am asking for my audiences is being receptive and curious to explore beyond your horizon. Curiosity sparks questions. Curiosity creates action. There is no limit unless you put a boundary at the end.
+The one thing I am asking for my audiences is being receptive, curious to explore beyond your horizon, and take action. There is no limit unless you put a boundary at the end. 
+
+Curiosity sparks questions. Curiosity creates action. Curiosity is inclusive. Curiosity is our non-judgment friend that always invite us and give us clues. I found my strength and confidence through curiosity about weightlifting. 
 
 
 Be a humble hummingbird,
