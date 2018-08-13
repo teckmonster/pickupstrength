@@ -15,9 +15,9 @@ As I am sitting here and trying to craft the best about page for Pick Up Strengt
 
 I want to share my stories from my perspective through my special lenses - the conflict interest of being a dual identity, the curious mind I always carry with me as a little girl, the lessons of some boring and tedious paint strokes and strength training I learn, the nerdiness and creativity I develop when I start to code, and more.
 
-In Pick Up Strength, this place will fill with creativity, non-judgment, positivity, and a healthy dose of encouragement and curiosity. I want to help people who have similar barriers and obstacles. Obstacles like in learning a new language, moving to a new place, getting through college, stress management, get a stronger mind and body, etc. I hope that you will learn something new from me and to share with others. 
+In Pick Up Strength, this place will fill with creativity, non-judgment, positivity, and a healthy dose of encouragement and curiosity. I want to help people who have similar barriers and obstacles. Obstacles like in learning a new language, moving to a new place, getting through college, strength training, nutrition, stress management, get a stronger mind and body, etc. I hope that you will learn something new from me and to share with others. 
 
-The one thing I am asking for my audiences is being receptive and curious to explore beyond your horizon. Curiosity sparks questions. Curiosity creates action. There is no limit unless you put a bound at the end.
+The one thing I am asking for my audiences is being receptive and curious to explore beyond your horizon. Curiosity sparks questions. Curiosity creates action. There is no limit unless you put a boundary at the end.
 
 
 Be a humble hummingbird,
