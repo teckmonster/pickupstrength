@@ -2,7 +2,6 @@
 layout: post
 title: "Healthy & Nutrient-Dense Smoothie Recipe » My All Time Favorite"
 date: 2018-08-01 20:13:18 +0200
-header-img: "images/smoothie-3.jpg"
 image: smoothie-3.jpg
 tags: [smoothie, recipe, nutribullet]
 categories: nutrition
