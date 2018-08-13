@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Complete 4-Week Training Program For Beginner"
-date: 2018-08-05 21:13:18 +0200
+date: 2018-09-10 21:13:18 +0200
 image: 9.jpg
 header-img: "images/9.jpg"
 tags: [strength training, strong, beginner]

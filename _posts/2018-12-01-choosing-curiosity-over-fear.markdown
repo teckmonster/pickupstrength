@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Choosing Curiosity Over Fear"
-date: 2018-09-01 20:13:18 +0200
+date: 2018-12-01 20:13:18 +0200
 header-img: "images/smoothie-3.jpg"
 image: smoothie-3.jpg
 tags: [smoothie, recipe]
