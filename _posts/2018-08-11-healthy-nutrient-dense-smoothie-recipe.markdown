@@ -9,7 +9,7 @@ categories: nutrition
 description: A well balanced and nutrient dense recipe with macronutrients - protein, healthy fat, and fiber! Depending on your nutrition goals, you can use this recipe and tailor to your needs. The goal is to make sure your smoothie has these macronutrients.
 
 ---
-I have to share my favorite smoothie recipe with you because it has improved my nutrition and protein intake drastically. This smoothie has been my morning fuel for a year now, and it is a well balanced and nutrient dense recipe with macronutrients - protein, healthy fat, and fiber! Depending on your nutrition goals, you can use this recipe and tailor to your needs. The goal is to make sure your smoothie has these macronutrients.
+I have to share my favorite smoothie recipe with you because it has improved my nutrition, boost my energy level, and protein intake drastically. This smoothie has been my morning fuel for a year now, and it is a well balanced and nutrient dense recipe with macronutrients - protein, healthy fat, and fiber! Depending on your nutrition goals, you can use this recipe and tailor to your needs. The goal is to make sure your smoothie has these macronutrients.
 
 If you want to read my smoothie journey, then keep reading, or you can jump to the ingredients section.
 
@@ -56,6 +56,19 @@ These are some of the benefits of collagen peptides listed on their site:
 * whole 30 Approved, Gluten Free, Dairy Free
 
 I do see that my nails are getting healthier and my hair is growing so long that I need a trim soon.
+
+The last bit I want to mention about why I put a pint of Celtic sea salt in my smoothie.
+
+Celtic sea salt has 82 minerals that we needed and it is unrefined so it does not contain any chemicals, preservatives, or additive. Try to avoid refine salt as much as possible.
+
+The benefits of Celtic sea salt:
+* Alkaline the body
+* Balance blood sugars
+* Eliminate mucus buildup
+* Increase energy
+* Improve brain function
+
+Please give this recipe a try and let me know how you do! 
 
 Until then, see you next time!
 
