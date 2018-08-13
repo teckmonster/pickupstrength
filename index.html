@@ -2,6 +2,28 @@
 layout: home
 ---
 
+<script type="application/ld+json">
+{ "@context": "{{site.baseurl}}", 
+ "@type": "Blog",
+ "keywords": "{{site.description}}", 
+ "url": "{{site.baseurl}}",
+ "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "{{site.baseurl}}"
+  },
+ "author": {
+    "@type": "Person",
+    "name": "Pick Up Strength",
+    "sameAs": [
+        "https://twitter.com/pickupstrength",
+        "https://instagram.com/pickupstrength",
+        "https://plus.google.com/u/1/100590609275665997066"
+    ]
+  }
+ }
+</script>
+
+
 {% if paginator.page %}
   {% assign offset = paginator.page | minus:1 | times:paginator.per_page %}
   {% assign currentPage = paginator.page %}
