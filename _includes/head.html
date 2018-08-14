@@ -77,14 +77,16 @@
     {
         "@context": "http://schema.org",
         "@type": "BlogPosting",
-        "headline": "{{ page.title }}",
+        "headline": [
+            {% if page.title %}
+                "{{page.title}}"
+            {% else %}
+                "{{site.title}}"
+            {% endif %}
+        ],
         "description": "{{ page.description }}",
         "image": [
-            {% if page.ogimageoff %}
-
-            {% elsif page.ogimage %}
-                "{{page.ogimage}}"
-            {% elsif page.image %}
+            {% if page.image %}
                 "{{site.url}}/images/{{page.image}}"
             {% else %}
                 "https://pickupstrength.com/images/bill-williams-hummingbird-unsplash.jpg"
