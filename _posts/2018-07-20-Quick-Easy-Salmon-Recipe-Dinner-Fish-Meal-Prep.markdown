@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "5 Minutes Easy and Quick Meal Salmon Dinner"
+title: "Quick & Easy Salmon Recipe Meal Prep"
 date: 2018-07-20 20:13:18 +0200
 image: quick-easy-meal-salmon-dinner.jpg
 header-img: "images/quick-easy-meal-salmon-dinner.jpg"
@@ -9,7 +9,7 @@ categories: nutrition
 description: Healthy dinner preparing in 5 minutes. Featured quick and easy salmon dinner
 ---
 
-This quick and easy salmon dinner took me the same amount of time as frying three sunny sides up eggs. If you are interested in how I pull together this 5-minute meal, then keep on reading! 
+This quick and easy salmon dinner took me the same amount of time as frying three sunny sides up eggs. If you are interested in how I pull together this 5 to 10 minutes meal, then keep on reading! 
 
 Making salmon for dinner was like a nightmare to me before not counting the time to scrub the pan. :( I am not patient enough to bake anything when I am starving after coming back from work or gym.
 
