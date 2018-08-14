@@ -2,7 +2,54 @@
 layout: home
 ---
 
-
+<script type="application/ld+json">
+    {
+        "@context": "http://schema.org",
+        "@type": "Blog",
+        "url": "{{ prepend: site.baseurl | prepend: site.url }}",
+        "headline": "{{ site.title }}",
+        "about": "{{ site.description }}",
+        "image": [
+            "{{site.baseurl}}/images/{{site.author-image}}"
+        ],
+        "isAccessibleForFree": "True",
+        "isPartOf": {
+            "@type": ["CreativeWork", "Product"],
+            "name": "{{site.title}}",
+            "productID": "site.baseurl"
+        },
+        "discussionUrl": "https://twitter.com/search?f=tweets&vertical=default&q=to%3AChronotope&l=en&src=typd",
+        "author": {
+            "@type": "Person",
+            "name": "{{site.title}}",
+            "description": "{{site.description}}",
+            "sameAs": "{{site.baseurl}}/about",
+            "image": {
+                "@type": "ImageObject",
+                "url": "{{site.baseurl}}/images/{{site.author-image}}"
+            },
+            "givenName": "Pick Up Strength",
+            "familyName": "pickupstrength",
+            "alternateName": "P.U.S",
+            "publishingPrinciples": "{{site.baseurl}}/about/"
+        },
+        "inLanguage": "en-US",
+        "license": "http://creativecommons.org/licenses/by-sa/4.0/",
+        "additionalType": "CreativeWork",
+        "alternateName": "{{site.title}}",
+        "publisher": {
+            "@type": "Organization",
+            "name": "{{site.title}}",
+            "description": "{{site.description}}",
+            "sameAs": "{{site.baseurl}}",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "{{site.baseurl}}/images/{{bill-williams-hummingbird-unsplash.jpg}}"
+            },
+            "publishingPrinciples": "{{site.baseurl}}/about/"
+        }
+    }
+</script>
 
 {% if paginator.page %}
   {% assign offset = paginator.page | minus:1 | times:paginator.per_page %}
