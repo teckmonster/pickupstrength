@@ -4,7 +4,6 @@ title: "Questions When Performing An Exercise"
 date: 2018-09-20 20:13:18 +0200
 modified: 2018-08-13 20:13:18 +0200
 image: glute-booty.jpg
-header-img: "images/glute-booty.jpg"
 tags: [best glutes exercies to grow your glute, training programs, lower body exercises]
 categories: strength
 description: best glutes exercies to grow your glute

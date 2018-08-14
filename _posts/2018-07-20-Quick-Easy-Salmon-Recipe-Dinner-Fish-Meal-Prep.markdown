@@ -2,9 +2,9 @@
 layout: post
 title: "Quick & Easy Salmon Recipe Meal Prep"
 date: 2018-07-20 20:13:18 +0200
+modified: 2018-08-14 20:13:18 +0200
 image: quick-easy-meal-salmon-dinner.jpg
-header-img: "images/quick-easy-meal-salmon-dinner.jpg"
-tags: [nutrition, quick and easy meal, meal prep, healthy dinner, recipe, salmon]
+tags: [nutrition, quick and easy meal, meal prep, healthy dinner, recipe, salmon, dinner plan, ozeri]
 categories: nutrition
 description: Healthy dinner preparing in 5 minutes. Featured quick and easy salmon dinner
 ---

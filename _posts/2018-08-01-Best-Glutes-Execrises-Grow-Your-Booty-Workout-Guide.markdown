@@ -1,10 +1,9 @@
 ---
 layout: post
-title: "Best Glutes Exercises To Grow You Booty | Exercises That Target The Peaches"
+title: "Best Glutes Exercises To Grow You Booty Without Machine | Exercises That Target The Peaches"
 date: 2018-08-01 20:13:18 +0200
 modified: 2018-08-14 20:13:18 +0200
 image: glute-booty.jpg
-header-img: "images/glute-booty.jpg"
 tags: [best glutes exercises to grow your glute, training programs, lower body exercises, resistance training, resistance band, booty band, RDL, glute bridge, squat, Bulgarian split squat, hip thrusts]
 categories: strength
 description: best glutes exercises to grow your glute
