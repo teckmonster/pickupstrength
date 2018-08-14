@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Best Glutes Exercises To Grow You Booty | How To Target Booty Workout Guide."
+title: "Best Glutes Exercises To Grow You Booty | Exercises That Target The Peaches"
 date: 2018-08-01 20:13:18 +0200
 modified: 2018-08-14 20:13:18 +0200
 image: glute-booty.jpg
