@@ -5,12 +5,10 @@ date: 2018-08-10 20:13:18 +0200
 modified: 2018-08-13 20:13:18 +0200
 image: glute-booty.jpg
 header-img: "images/glute-booty.jpg"
-tags: [best glutes exercies to grow your glute, training programs, lower body exercises]
+tags: [best glutes exercies to grow your glute, training programs, lower body exercises, resistance training, resistance band, booty band, RDL, glute bridge, squat, bulgarian split squat, hip thrusts]
 categories: strength
 description: best glutes exercies to grow your glute
 ---
-
-### The 7 Best Glutes Exercises To Grow You Glute 
 
 Here are my favorite exercies to get stronger and improve my lower body physique.
 

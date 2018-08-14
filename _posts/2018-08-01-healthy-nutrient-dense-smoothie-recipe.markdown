@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Healthy & Nutrient-Dense Smoothie Recipe » My All Time Favorite"
+title: "Vanilla Protein Green Smoothie Recipe | Energy Boost | My All Time Favorite"
 date: 2018-08-01 20:13:18 +0200
 modified: 2018-08-13 20:13:18 +0200
 image: smoothie-3.jpg
-tags: [smoothie, recipe, nutribullet]
+tags: [smoothie, recipe, nutribullet, greensmoothie, protein, fiber, almond milk, protein powder, MCT oil, celtic, vital protein, collagen peptides]
 categories: nutrition
-description: A well balanced and nutrient dense recipe with macronutrients - protein, healthy fat, and fiber! Depending on your nutrition goals, you can use this recipe and tailor to your needs. The goal is to make sure your smoothie has these macronutrients.
+description: A well balanced and nutrient dense recipe with macronutrients - protein, healthy fat, fiber, and green! Depending on your nutrition goals, you can use this recipe and tailor to your needs. The goal is to make sure your smoothie has these macronutrients.
 
 ---
 I have to share my favorite smoothie recipe with you because it has improved my nutrition, boost my energy level, and protein intake drastically. This smoothie has been my morning fuel for a year now, and it is a well balanced and nutrient dense recipe with macronutrients - protein, healthy fat, and fiber! Depending on your nutrition goals, you can use this recipe and tailor to your needs. The goal is to make sure your smoothie has these macronutrients.
