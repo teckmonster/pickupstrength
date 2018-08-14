@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "5 Minutes Easy and Quick Meal Salmon Dinner"
-date: 2018-09-01 20:13:18 +0200
+date: 2018-07-20 20:13:18 +0200
 image: quick-easy-meal-salmon-dinner.jpg
 header-img: "images/quick-easy-meal-salmon-dinner.jpg"
-tags: [nutrition, quick and easy meal, meal prep, healthy dinner, recipe]
+tags: [nutrition, quick and easy meal, meal prep, healthy dinner, recipe, salmon]
 categories: nutrition
 description: Healthy dinner preparing in 5 minutes. Featured quick and easy salmon dinner
 ---
