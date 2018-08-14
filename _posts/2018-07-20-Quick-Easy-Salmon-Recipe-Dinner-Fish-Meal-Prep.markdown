@@ -21,6 +21,8 @@ Finally, I found the secret weapon in searing salmon. It is the stone earth fryi
 
 I have been using this pan many times for frying eggs and salmon, and they are my favorite. 
 
+![]({{site.baseurl}}/images/tm-cooks-salmon.jpg)
+
 Recipe and ingredients are below. Please let me know how it goes!
 
 #### Ingredients

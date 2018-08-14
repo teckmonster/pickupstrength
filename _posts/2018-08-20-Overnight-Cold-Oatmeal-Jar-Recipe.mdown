@@ -15,7 +15,7 @@ description: A well balanced and nutrient dense recipe with macronutrients - pro
 
 #### Ingredients
 
-* 1/2 cup of Quaker oats old fashioned
+* ½ cup of Quaker oats old fashioned
 * 1 cup of unsweetened vanila almond beverage
 * 1 tablespoon of organic chia seed
 * ½ tablespoon of raw shelled hemp seed
@@ -24,8 +24,8 @@ description: A well balanced and nutrient dense recipe with macronutrients - pro
 * 2 tablespoons of raw dragon fruit
 * 1 teaspoon of manuka honey
 
-![]({{site.baseurl}}/images/overnight-quaker-oats-jar-recipe-macro.jpg)
+![macro]({{site.baseurl}}/images/overnight-quaker-oats-jar-recipe-macro.png){: max-width:2px; display:block;}
 
-Calories : 370cal | Protein : 11g | Carbohydrates : 48g | Fat : 14g
+Calories : 370cal, Protein : 11g, Carbohydrates : 48g, Fat : 14g
 
 Micronutrients: Potassium, Vitamin A, Vitamin C, Calcium, Iron

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Vanilla Protein Green Smoothie Recipe | Energy Boost | My All Time Favorite"
-date: 2018-08-01 20:13:18 +0200
+date: 2018-08-10 20:13:18 +0200
 modified: 2018-08-13 20:13:18 +0200
 image: smoothie-3.jpg
 tags: [smoothie, recipe, nutribullet, greensmoothie, protein, fiber, almond milk, protein powder, MCT oil, celtic, vital protein, collagen peptides]
@@ -26,7 +26,7 @@ I start to read nutrition books and continue doing my research in protein powder
 
 #### Ingredients
 
-* 1.5 to 2 cups unsweetened vanilla almond milk
+* 1½ to 2 cups unsweetened vanilla almond milk
 * 1 serving unflavored protein powder (2 scoops)
 * 1 tablespoon hemp seeds
 * 1 tablespoon chia seeds
