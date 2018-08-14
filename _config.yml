@@ -33,7 +33,7 @@ mailchimp: https://pickupstrength.us19.list-manage.com/subscribe/post?u=60ebcb36
 google-analytics: UA-123488355-1 # Add your identifier. For example UA-99631805-1
 
 # Comment Section (Disqus)
-disqus-identifier: #mr-brown # Add your shortname for Disqus Comment. For example mr-brown
+disqus-identifier: pickupstrength #mr-brown # Add your shortname for Disqus Comment. For example mr-brown
 
 # Build settings
 markdown: kramdown
