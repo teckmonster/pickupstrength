@@ -85,7 +85,7 @@
             {% elsif page.ogimage %}
                 "{{page.ogimage}}"
             {% elsif page.image %}
-                "{{page.image}}"
+                "{{site.url}}/images/{{page.image}}"
             {% else %}
                 "https://pickupstrength.com/images/bill-williams-hummingbird-unsplash.jpg"
             {% endif %}
@@ -110,7 +110,7 @@
             "sameAs": "https://pickupstrength.com/about/",
             "image": {
                 "@type": "ImageObject",
-                "url": "{{site.baseurl}}/images/{{author-image}}"
+                "url": "{{site.url}}/images/{{author-image}}"
             },
             "givenName": "Pick Up Strength",
             "familyName": "Pick Up Strength",

@@ -10,7 +10,7 @@ layout: home
         "headline": "{{ site.title }}",
         "about": "{{ site.description }}",
         "image": [
-            "{{site.baseurl}}/images/{{site.author-image}}"
+            "{{site.url}}/images/{{site.author-image}}"
         ],
         "isAccessibleForFree": "True",
         "isPartOf": {
@@ -23,15 +23,15 @@ layout: home
             "@type": "Person",
             "name": "{{site.title}}",
             "description": "{{site.description}}",
-            "sameAs": "{{site.baseurl}}/about",
+            "sameAs": "{{site.url}}/about",
             "image": {
                 "@type": "ImageObject",
-                "url": "{{site.baseurl}}/images/{{site.author-image}}"
+                "url": "{{site.url}}/images/{{site.author-image}}"
             },
             "givenName": "Pick Up Strength",
             "familyName": "pickupstrength",
             "alternateName": "P.U.S",
-            "publishingPrinciples": "{{site.baseurl}}/about/"
+            "publishingPrinciples": "{{site.url}}/about/"
         },
         "inLanguage": "en-US",
         "license": "http://creativecommons.org/licenses/by-sa/4.0/",
@@ -41,12 +41,12 @@ layout: home
             "@type": "Organization",
             "name": "{{site.title}}",
             "description": "{{site.description}}",
-            "sameAs": "{{site.baseurl}}",
+            "sameAs": "{{site.url}}",
             "logo": {
                 "@type": "ImageObject",
-                "url": "{{site.baseurl}}/images/{{bill-williams-hummingbird-unsplash.jpg}}"
+                "url": "{{site.url}}/images/{{bill-williams-hummingbird-unsplash.jpg}}"
             },
-            "publishingPrinciples": "{{site.baseurl}}/about/"
+            "publishingPrinciples": "{{site.url}}/about/"
         }
     }
 </script>
