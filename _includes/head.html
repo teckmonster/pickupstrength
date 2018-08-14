@@ -96,7 +96,7 @@
             "@type": "WebPage",
             "@id": "{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}"
         },
-        "datePublished": "{{page.date}}",
+        "datePublished": "{% if page.date %}{{page.date}}{% else %}{{site.date}}{% endif %}",
         "dateModified": "{% if page.modified %}{{page.modified}}{% else %}{{page.date}}{% endif %}",
         "isAccessibleForFree": "True",
         "isPartOf": {
