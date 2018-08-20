@@ -6,7 +6,7 @@ layout: home
     {
         "@context": "http://schema.org",
         "@type": "Blog",
-        "url": "{{ prepend: site.baseurl | prepend: site.url }}",
+        "url": "{{ prepend: site.url | prepend: site.url }}",
         "headline": "{{ site.title }}",
         "about": "{{ site.description }}",
         "image": [
@@ -16,7 +16,7 @@ layout: home
         "isPartOf": {
             "@type": ["CreativeWork", "Product"],
             "name": "{{site.title}}",
-            "productID": "site.baseurl"
+            "productID": "site.url"
         },
         "discussionUrl": "https://twitter.com/search?f=tweets&vertical=default&q=to%3AChronotope&l=en&src=typd",
         "author": {
