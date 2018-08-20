@@ -94,17 +94,17 @@ In strength training, I like to apply the 70/30 breathing method, if you are int
 
 #### Consult with A Health Professional
 
-I highly recommend consulting with your physician or a professional, that way you’ve just got your basis covers.
+I highly recommend consulting with your physician or a health professional, that way you’ve just got your basis covers.
 
-If you are interested in improving your breathing and apply to your daily routine and physical activities, many professional coaches will teach you the fundamental technique in improving. The next time you are in your group fitness class, ask the instructor for advice on developing your breathing technique. If you know how to breathe underwater, please let me know! I am still struggling and especially afraid of scuba and snorkeling without letting go the boat.
+If you are interested in improving your breathing and apply to your daily routine or physical activities, many professional coaches will teach you the fundamental technique. The next time you are in your group fitness class or running with your friends, ask them for advice on developing your breathing technique. If you know how to breathe underwater, please let me know! I am still struggling and especially afraid of scuba and snorkeling without letting go the boat.
 
 
 ![]({{site.baseurl}}/images/breathing-scuba-diving.JPG)
 
 
-Imagine the next time you are on a flight and your neighbor is terrifying on the turbulence, you will be able to calm him/her with the breathing method, and it might spark an interesting conversation!
+I hope you learn something new today by reading this far! Imagine the next time you are on a flight and your neighbor is terrifying on the turbulence, you will be able to calm him/her with the breathing method, and it might spark an interesting conversation!
 
-Be a humble hummingbird and be open minded. Seek help and don’t be discouraged like the way I used to.
+Be a humble hummingbird. Seek help and don’t be discouraged like the way I used to.
 
 
 Share with love,
