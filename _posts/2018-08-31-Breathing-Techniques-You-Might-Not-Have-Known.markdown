@@ -36,9 +36,9 @@ Last but not least, keep in mind, you need to start slow, and implement these te
 
 #### Breathing Techniques
 
-I believe having general knowledge in breathing, and its technique is adding value to the quality of life. Coming from yoga and weightlifting perspective, I want to share some my methods with you.
+I believe having general knowledge in breathing, and its technique is adding value to the quality of life. Coming from yoga and weightlifting background, I want to share some my methods with you.
 
-In the 8 Limbs of Yoga, the 4th limb is the pranayama. Prana means breath control or the life force restraint. Forget about all the poses you see doing yoga, you might not know practice pranayama is also part of practicing yoga, and it is the most prominent part in shaping a yogi! For each movement, the breath connects the body, and you are in control of your breathing.
+In the 8 Limbs of Yoga, the 4th limb is the pranayama. Prana means breath control or the life force restraint. Forget about all the poses you see doing yoga, you might not know practice pranayama is also part of practicing yoga, and it is the most prominent part in shaping a yogi! For each movement, the breath connects with each poses, and you are in control of your breathing and movement.
 
 ##### Five Qualities of Breathing: 
 
