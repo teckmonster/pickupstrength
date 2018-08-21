@@ -4,10 +4,11 @@ title: "Breathing Techniques That You Might Not Have Known Before"
 date: 2018-08-20 20:13:18 +0200
 modified: 2018-08-20 20:13:18 +0200
 image: yoga-pranayama.jpg
-tags: [Breathing technique, Meditation, Child Labor Breathing, Stress Management, Sleep Quality, Respiratory Rate, Qualify of life, Yoga Breathing, Breathing Technique in Lifting, Deescalate Patients, Self Care, Breath]
+tags: [Breathing technique, Meditation, Child Labor Breathing, Stress Management, Sleep Quality, Respiratory Rate, Qualify of life, Yoga Breathing, Breathing Technique in Lifting, Deescalate Patients, Self Care, YogaWorks]
 categories: strength
 description: The typical respiratory rate is between 15 to 20 breaths per minutes while resting. You can train your breath to be five breaths per minute with some of the breathing technique I am going to mention. 
 ---
+
 The typical respiratory rate is between 15 to 20 breaths per minutes while resting. You can train your breath to be five breaths per minute with some of the breathing technique I am going to mention. 
 
 I am excited to share this post with you!
@@ -70,7 +71,7 @@ Think of your belly like a balloon when practicing diaphragmatic breathing. I kn
 * Can you make them quiet?
 * Continue with couple more breath on your own pace. 
 
-Before taking the teacher training, I took Becky (my instructor) yoga class because I am curious about yoga. I want to learn how to execute the poses and incorporate with my weightlifting training. That day, I learned a different way to breathe. I used to have short and chopping breathing that I only filled up to my upper chest. Because of my curiosity, I learn more about other breathing technique and improve my breathing quality overall. 
+Before taking the teacher training, I took Becky (my instructor) yoga class at Infinity Yoga (now YogaWorks in Atlanta area) because I am curious about yoga. I want to learn how to execute the poses and incorporate with my weightlifting training. That day, I learned a different way to breathe. I used to have short and chopping breathing that I only filled up to my upper chest. Because of my curiosity, I learn more about other breathing technique and improve my breathing quality overall. 
 
 Everyone has different goals. Some of the students who took the teacher training are to become a yoga instructor. For me, it is my curiosity. If something sparks curious in you, take action, and you might be surprised what new things you might learn along the way.
 

@@ -6,7 +6,7 @@ modified: 2018-08-14 20:13:18 +0200
 image: glute-booty.jpg
 tags: [best glutes exercises to grow your glute, training programs, lower body exercises, resistance training, resistance band, booty band, RDL, glute bridge, squat, Bulgarian split squat, hip thrusts]
 categories: strength
-description: best glutes exercises to grow your glute
+description: You do not really need to go to a gym or need a big machine to start resistance training. You can begin to resistance training at your home or basement with just 2 things.
 ---
 
 I started resistance training and powerlifting in 2015 and getting into weightlifting in 2016. I absolutely love lifting weights. The first moment when I am hooked into lifting was when I learned how to jerk 35kg (~77lbs) overhead. It is kind of my kick-ass moment that you don't want to mess with a 110lbs girl! Now, my best jerk is a little over my body weight. The second moment when I am even hooked is that I notice my physique is starting to change. Like, my shoulders have more definition, and my booty got meat and bun. Excuse my weird language. That is what my fiance said. 
