@@ -55,6 +55,7 @@
 <!-- Twitter cards -->
 <meta name="twitter:site"    content="@{{ site.author-twitter }}">
 <meta name="twitter:creator" content="@{{ site.author-name }}">
+<meta name="twitter:title"   content="{{ site.title }}">
 <meta name="twitter:title"   content="{{ page.title }}">
 <meta name="twitter:image"   content="{{ site.url }}/images/{{ site.author-image }}">
 
@@ -87,7 +88,7 @@
         "description": "{{ page.description }}",
         "image": [
             {% if page.image %}
-                "{{site.url}}/images/{{page.image}}"
+                "{{sitebase.url}}/images/{{page.image}}"
             {% else %}
                 "https://pickupstrength.com/images/bill-williams-hummingbird-unsplash.jpg"
             {% endif %}
