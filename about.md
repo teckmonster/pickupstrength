@@ -7,7 +7,7 @@ categories: about
 ---
 H E L L O -
 
-I am tm, the creator of Pick Up Strength and currently reside in the United States. 
+I am the creator of Pick Up Strength and currently reside in the United States. 
 
 I graduated with a degree in Engineering and currently working in the business intelligence and data analytics fields. Outside of my day job, I enjoyed coding with creativity, pick up strength with a barbell, and backpacking in the wilderness, and last but not least, sharing more content in Pick Up Strength.
 

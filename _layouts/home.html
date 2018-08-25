@@ -17,6 +17,10 @@ layout: default
       <a href="/contact" class="c-contact-btn c-btn c-btn--primary c-btn--round c-btn--shadow"><span data-icon='ei-envelope' data-size='m'></span> Contact</a>
       {% else %}
       {% endif %}
+      {% if site.author-youtube %}
+      <a href="https://bit.ly/{{ site.social-youtube }}" class="c-btn c-btn--tridary c-btn--round c-btn--shadow"><span data-icon='ei-sc-youtube' data-size='m'></span> Watch</a>
+      {% else %} 
+      {% endif %}    
       {% if site.author-instagram %}
       <a href="https://instagram.com/{{ site.social-instagram }}" class="c-btn c-btn--tridary c-btn--round c-btn--shadow"><span data-icon='ei-sc-instagram' data-size='m'></span> Follow</a>
       {% else %}      
