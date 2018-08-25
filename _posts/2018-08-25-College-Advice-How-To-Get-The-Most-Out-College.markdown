@@ -14,8 +14,9 @@ To give a little background about myself, I graduated from Georgia Tech in Indus
 
 Leave a comment down below! I would like to know what major you are in and what year you are in college and also check out the video where I go more in depth the details on my tips.
 
-<iframe src="https://youtu.be/IDj8MWHElgk" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/IDj8MWHElgk" frameborder="0" allowfullscreen></iframe>
 ****
+
 
 #### Tip #1: Define yourself. 
 
