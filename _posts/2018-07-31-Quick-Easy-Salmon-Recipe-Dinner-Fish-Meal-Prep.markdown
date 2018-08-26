@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Quick & Easy Salmon Recipe Meal Prep"
+title: "SIMPLE RECIPE | quick & easy salmon meal prep."
 date: 2018-07-31 20:13:18 +0200
 modified: 2018-08-14 20:13:18 +0200
 image: quick-easy-meal-salmon-dinner.jpg

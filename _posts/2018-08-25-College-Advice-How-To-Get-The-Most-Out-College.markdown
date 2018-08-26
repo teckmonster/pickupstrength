@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "College Advice | What I Wish Someone Had Told Me Before College."
+title: "COLLEGE ADVICE | what I wish someone had told me before college."
 date: 2018-08-25 21:13:18 +0200
 modified: 2018-08-25 20:13:18 +0200
 image: college-advice-cornell-campus.png

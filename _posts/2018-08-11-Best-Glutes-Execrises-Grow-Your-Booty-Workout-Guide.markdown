@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Best Glutes Exercises To Grow You Booty Without Machine | Exercises That Target The Peaches"
+title: "GLUTES EXERCISES | exercises that target the peaches and grow booty without machine."
 date: 2018-08-11 20:13:18 +0200
 modified: 2018-08-14 20:13:18 +0200
 image: glute-booty.jpg

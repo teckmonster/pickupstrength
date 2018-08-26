@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Breathing Techniques That You Might Not Have Known Before"
+title: "BREATHING TECHNIQUES | that you might not have known before."
 date: 2018-08-20 20:13:18 +0200
 modified: 2018-08-20 20:13:18 +0200
 image: yoga-pranayama.jpg

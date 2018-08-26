@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vanilla Protein Green Smoothie Recipe | Energy Boost | My All Time Favorite"
+title: "SMOOTHIE RECIPE | vanilla protein green recipe for energy boost."
 date: 2018-08-19 20:13:18 +0200
 modified: 2018-08-19 20:13:18 +0200
 image: smoothie-3.jpg

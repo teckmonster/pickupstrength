@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Complete 4-Week Training Program For Beginner."
+title: "TRAINING PROGRAM | the complete 4-week program for a beginner."
 date: 2018-07-21 21:13:18 +0200
 modified: 2018-08-14 20:13:18 +0200
 image: barbell-squat.jpg
@@ -12,8 +12,6 @@ description: The Complete 4-Week Training Program For Beginner
 I put together a 4-week training program. Hopefully, you will find this resourceful and have some guideline when getting into strength training. 
 
 You can use it and share it with anyone who might find helpful! 
-
-Download here : [The Complete 4-Week Training Program For Beginner][program].
 
 #### T I P S
 
@@ -46,9 +44,7 @@ Dumbbell Curls
 Hip Thrust
 
 
-
-[program]: https://drive.google.com/file/d/13AEnCful72jnO2FOY2pLGc7xNptCryxg/view?usp=sharing
-
-
-
 ❤ tm
+
+
+<iframe src="https://drive.google.com/file/d/1PctP6mzcpEdiEvELP5M8Utk7UqbckdS_/preview" width="640" height="480"></iframe>
