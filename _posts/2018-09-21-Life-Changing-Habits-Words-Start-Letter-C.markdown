@@ -22,7 +22,7 @@ There are countless hours I wasted spending time scrolling on the internet. Look
 
 I took a couple months off social media, specifically Facebook and going off trails for a long weekend where there is no internet connection. 
 
-The intention is not to run away for social media. I believe social media has many advantages. It allows us to contribute, to learn, and to communicate. My new intention is to let myself to be the contributor, to share my experience, to have a purpose, to have a voice as an immigrant. 
+The intention is not to run away for social media. I believe social media has many advantages. It allows us to contribute, to learn, and to communicate. I set a new new intention which is to allow myself to be the contributor, to share my experience, to have a purpose, to have a voice as an Asian immigrant. 
 
 #### Confused » Contrast 
 
@@ -32,7 +32,7 @@ Believe me, you do not have to choose one another. Your decision does not have t
 
 I got the idea "Contrast" when picking out the blue and yellow background for Pick Up Strength. A blue wall, a plant, and a toiletry might look as dull on it own, but I decided to write my own description, share with my own voice, and make it attractive.
 
-I hope you will find the worlds exercises inspired and helpful. Let me know what new words you have come up on your own! 
+I hope you will find this exercise inspired and helpful. Let me know what new words you have come up on your own! 
 
 Until next time, see you then.
 
