@@ -39,7 +39,7 @@ Until next time, see you then.
 ❤ tm
 
 
-<iframe src="https://drive.google.com/file/d/1SwWiFd6tCiaE78hMoOghfiLznRF1a8g3/preview" width="440" height="480"></iframe>
+<iframe src="https://drive.google.com/file/d/1SwWiFd6tCiaE78hMoOghfiLznRF1a8g3/preview" width="400" height="480"></iframe>
 
 
 

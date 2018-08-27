@@ -47,4 +47,4 @@ Hip Thrust
 ❤ tm
 
 
-<iframe src="https://drive.google.com/file/d/1PctP6mzcpEdiEvELP5M8Utk7UqbckdS_/preview" width="440" height="480"></iframe>
+<iframe src="https://drive.google.com/file/d/1PctP6mzcpEdiEvELP5M8Utk7UqbckdS_/preview" width="400" height="480"></iframe>
