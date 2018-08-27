@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "LIFE-CHANGING HABITS | with these words starting with the letter C."
+title: "LIFE-CHANGING HABITS | with these words starting with the letter C (+ printable PDF)."
 date: 2018-08-25 22:13:18 +0200
 modified: 2018-08-25 22:13:18 +0200
 image: positive-wordcloud-letter-c.png

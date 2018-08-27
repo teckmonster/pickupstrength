@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TRAINING PROGRAM | the complete 4-week program for a beginner."
+title: "TRAINING PROGRAM | the complete 4-week program for a beginner (+ printable PDF)."
 date: 2018-07-21 21:13:18 +0200
 modified: 2018-08-14 20:13:18 +0200
 image: barbell-squat.jpg
