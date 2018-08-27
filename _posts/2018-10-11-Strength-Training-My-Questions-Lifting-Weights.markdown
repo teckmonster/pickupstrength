@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Questions When Performing An Exercise"
-date: 2018-09-20 20:13:18 +0200
-modified: 2018-08-13 20:13:18 +0200
+title: "STRENGTH TRAINING | my questions for lifting weights."
+date: 2018-10-11 20:13:18 +0200
+modified: 2018-10-11 20:13:18 +0200
 image: glute-booty.jpg
 tags: [best glutes exercies to grow your glute, training programs, lower body exercises]
 categories: strength
