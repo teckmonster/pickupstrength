@@ -27,9 +27,7 @@ layout: home
         </div>
       </header>
       {{page.content | markdownify}}
-      <div class="c-article__footer u-clearfix">
-
-          
+      <div class="c-article__footer u-clearfix">          
         <div class="c-article__tag">
           {% for tag in page.tags %}
           <a href="{{site.baseurl}}/tags#{{tag}}">&#35; {{ tag }}</a>
