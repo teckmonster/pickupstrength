@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "OVERNIGHT OATS | easy breakfast mason jar recipe & ideas."
-date: 2018-09-01 20:13:18 +0200
-modified: 2018-09-01 20:13:18 +0200
-image: overnight-quaker-oats-jar-recipe-1.png
+date: 2018-09-01 19:00:18 +0200
+modified: 2018-09-01 19:00:18 +0200
+image: overnight-oats-jar-recipe-1.jpg
 tags: [overnight oats, mason jar recipe, cold oat, breakfast, protein, fiber, almond milk, hemp seeds, simple recipe, breakfast, vegan breakfast, vegan, quick breakfast, breakfast ideas, easy breakfast ideas, meal ideas, nutrition, breakfast recipes, healthy breakfast, breakfast for kids]
 categories: nutrition
 description: A well balanced and nutrient dense recipe with macronutrients - protein, healthy fat, and fiber! 
@@ -21,9 +21,6 @@ Leave a comment down below if you would like to see more recipes!
 
 ****
 
-
-![]({{site.baseurl}}/images/overnight-quaker-oats-jar-recipe-2.jpg)
-
 #### Ingredients
 
 * ½ cup of oats
@@ -39,7 +36,12 @@ Chia seeds are high in Omega-3 fatty acid and have an excellent source of fiber.
 
 Add hemp seeds or nut butter to give a little nutty flavor and creamy texture.
 
-
 Calories: 280cal, Protein: 9g, Carbohydrates: 39g, Fat: 9g
 
 Micronutrients: Potassium, Vitamin A, Vitamin C, Calcium, Iron
+
+Until next time, see you then.
+
+❤ tm
+
+![]({{site.baseurl}}/images/overnight-quaker-oats-jar-recipe-3.jpg)
