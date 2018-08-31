@@ -36,8 +36,6 @@ I start to read nutrition books and continue doing my research in protein powder
 * a small handful frozen chopped spinach
 * a pint of Celtic sea salt
 
-(*) Note: if you never had chia seeds or you have a low-fiber diet, please start with ½ tablespoon and slowly build up your tolerance. 
-
 #### Macro Breakdown
 
 Coming soon.

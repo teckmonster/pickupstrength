@@ -14,7 +14,7 @@ He quoted:
 
 > If you think in negative terms, you will get negative results. If you think in positive terms, you will achieve positive results. ~  Norman Vincent Peale
 
-This makes me come to realize my own personal thoughts and thinking. I did an exercise where for every negative thoughts or word, I will replace it with the positive thoughts or words. The first couples words really struck me because they all start with the letter C. Contributor, coding, creativity, contagious, communication, so on and so forth. I want to encourage my readers to do the same. Maybe it will help you shift your focus and purpose in life, or perhaps it will not. You are in control of your own thoughts and words. If you have something better that resonate with you, use your own words. It does not have to start with letter C. You can create your own. I have shared a PDF for you to download to do the same exercise at the end of this blog post.
+This makes me come to realize my own personal thoughts and thinking. I did an exercise where for every negative thoughts or word, I will replace it with the positive thoughts or words. The first couples words really struck me because they all start with the letter C. Contributor, consistency, commitment, contentment, coding, creativity, contagious, communication, so on and so forth. I want to encourage my readers to do the same. Maybe it will help you shift your focus and purpose in life, or perhaps it will not. You are in control of your own thoughts and words. If you have something better that resonate with you, use your own words. It does not have to start with letter C. You can create your own. I have shared a PDF for you to download to do the same exercise at the end of this blog post.
 
 #### Consumer » Contributor
 
