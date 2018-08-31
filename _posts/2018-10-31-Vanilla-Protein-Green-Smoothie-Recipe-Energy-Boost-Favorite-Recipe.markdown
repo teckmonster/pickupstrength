@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "SMOOTHIE RECIPE | vanilla protein green recipe for energy boost."
-date: 2018-08-19 20:13:18 +0200
-modified: 2018-08-19 20:13:18 +0200
+date: 2018-08-30 20:13:18 +0200
+modified: 2018-08-30 20:13:18 +0200
 image: smoothie-3.jpg
 tags: [smoothie, recipe, nutribullet, greensmoothie, protein, fiber, almond milk, protein powder, MCT oil, celtic, vital protein, collagen peptides]
 categories: nutrition
@@ -29,12 +29,14 @@ I start to read nutrition books and continue doing my research in protein powder
 * 1½ to 2 cups unsweetened vanilla almond milk
 * 1 serving unflavored protein powder (2 scoops)
 * 1 tablespoon hemp seeds
-* 1 tablespoon chia seeds
+* 1 tablespoon chia seeds (*)
 * 1 tablespoon MCT oil
 * 1 tablespoons almond butter or 1/4 avocado
 * a small handful frozen wild Boreal blueberries (optional)
 * a small handful frozen chopped spinach
 * a pint of Celtic sea salt
+
+(*) Note: if you never had chia seeds or you have a low-fiber diet, please start with ½ tablespoon and slowly build up your tolerance. 
 
 #### Macro Breakdown
 
