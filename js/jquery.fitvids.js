@@ -9,15 +9,12 @@
 */
 
 ;(function( $ ){
-
   'use strict';
-
   $.fn.fitVids = function( options ) {
     var settings = {
       customSelector: null,
       ignore: null
     };
-
     if(!document.getElementById('fit-vids-style')) {
       // appendStyles: https://github.com/toddmotto/fluidvids/blob/master/dist/fluidvids.js
       var head = document.head || document.getElementsByTagName('head')[0];
@@ -26,11 +23,9 @@
       div.innerHTML = '<p>x</p><style id="fit-vids-style">' + css + '</style>';
       head.appendChild(div.childNodes[1]);
     }
-
     if ( options ) {
       $.extend( settings, options );
     }
-
     return this.each(function(){
       var selectors = [
         'iframe[src*="player.vimeo.com"]',
@@ -40,17 +35,14 @@
         'object',
         'embed'
       ];
-
       if (settings.customSelector) {
         selectors.push(settings.customSelector);
       }
-
       var ignoreList = '.fitvidsignore';
 
       if(settings.ignore) {
         ignoreList = ignoreList + ', ' + settings.ignore;
       }
-
       var $allVideos = $(this).find(selectors.join(','));
       $allVideos = $allVideos.not('object object'); // SwfObj conflict patch
       $allVideos = $allVideos.not(ignoreList); // Disable FitVids on this video.
@@ -79,9 +71,7 @@
       });
     });
   };
-  
   // Internal counter for unique video names.
   $.fn.fitVids._count = 0;
-  
 // Works with either jQuery or Zepto
 })( window.jQuery || window.Zepto );
