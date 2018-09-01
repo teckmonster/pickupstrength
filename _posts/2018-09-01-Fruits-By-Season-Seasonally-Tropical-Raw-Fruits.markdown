@@ -21,16 +21,27 @@ In Malaysia, I actually taste the dragon fruit in purple/beet color in a biology
 Here is my favorite list of fruit by season from January to December:
 
 Jan - grapefruit
+
 Feb - cherimoya
+
 Mar - pomelos
+
 Apr - oranges
+
 May - strawberries, berries
+
 Jun - kiwis, dragon fruit
+
 Jul - cherries
+
 Aug - muscadine
+
 Sep - raspberries
+
 Oct - apples
+
 Nov - pear
+
 Dec - pomegranate
 
 For additional resources, you can visit [Cuesa][cuesa]!
