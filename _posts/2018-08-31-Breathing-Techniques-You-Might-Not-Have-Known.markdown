@@ -23,7 +23,7 @@ If you are interested in reading my breathing journey, then keep reading, or you
 
 I had much difficulty in breathing, especially when I was doing any cardio related exercises such as running, cycle, hiking, etc. Many times, it stopped me from being physically active because I couldn’t keep up with my breaths. I would feel exhausted and fatigued when I was at mile 0.25. I was always the last one in the group. Really. That’s me. 
 
-![]({{site.baseurl}}/images/breathing-slow.jpg){:width="1280px" height="300px"}
+![]({{site.baseurl}}/images/breathing-slow.jpg)
 
 When there is a running or swimming event on the weekend with the family, I always felt discouraged going with them. I would pretend I hate running and swimming, and eventually, I get excluded because I show no interest. At one point, I felt that I couldn’t possibly do any related physical activities because my body did not respond well and I didn’t know where to start to improve it.
 
