@@ -57,13 +57,13 @@ Send a smiley face that you survive for your first week! They would love to hear
 * Slide down the slope during winter time! (if you live in cold weather).
 * Fall in love. 
 
-![]({{site.baseurl}}/images/chinese calligraphy event.jpg)
+![]({{site.baseurl}}/images/chinese calligraphy event.jpg "chinese calligraphy")
 
 #### Tip #7: Go outside and explore.
 
 Explore the city or town beyond your college campus. You can now rent a bike or take a ride to explore the one-mile radius. Go to football game or take acting classes!
 
-![]({{site.baseurl}}/images/georgia tech football game.jpg)
+![]({{site.baseurl}}/images/georgia tech football game.jpg "college advice")
 
 #### Tip #8: Don’t aim for perfection. 
 

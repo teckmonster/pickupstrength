@@ -44,4 +44,4 @@ Until next time, see you then.
 
 ❤ tm
 
-![]({{site.baseurl}}/images/overnight-quaker-oats-jar-recipe-3.jpg)
+![]({{site.baseurl}}/images/overnight-quaker-oats-jar-recipe-3.jpg "overnight oat mason jar recipe")

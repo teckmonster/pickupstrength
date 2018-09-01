@@ -44,7 +44,7 @@ Here are my favorite exercises to get stronger and improve my lower body physiqu
 * 3 sets x 15 reps
 * If I want the extra burns and glute workout toward the end of training, I use the blue band to do glute bridge. Keep in mind to hold for couple seconds at the top and squeeze your butt chins (like pinching a quarter in between).
 
-![]({{site.baseurl}}/images/glute-bridge.jpg)
+![]({{site.baseurl}}/images/glute-bridge.jpg "glute exercises")
 
 ###### Banded Hip Thrusts with Barbell
 

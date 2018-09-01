@@ -51,7 +51,7 @@ In the 8 Limbs of Yoga, the 4th limb is the pranayama. Prana means breath contro
 
 Think of your belly like a balloon when practicing diaphragmatic breathing. I know it is not an attractive description, but it works! When you inhale, make the balloon as big as possible (expand), in contrast, when you exhale, make the balloon as small as possible (contract).
 
-![]({{site.baseurl}}/images/yoga-quality-diaphragmatic-breathing.jpg)
+![]({{site.baseurl}}/images/yoga-quality-diaphragmatic-breathing.jpg "diaphragmatic breathing")
 
 ##### Diaphragmatic Breathing Method
 
@@ -91,7 +91,7 @@ In strength training, I like to apply the 70/30 breathing method, if you are int
 * De-escalate Aggressive Behavior in Psychiatric Patients
 * Calm a Person
 
-![]({{site.baseurl}}/images/yoga-bhramari.jpg)
+![]({{site.baseurl}}/images/yoga-bhramari.jpg "bhramari")
 
 #### Consult with A Health Professional
 
