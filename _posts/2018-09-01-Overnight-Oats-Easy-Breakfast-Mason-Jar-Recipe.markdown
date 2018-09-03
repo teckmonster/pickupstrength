@@ -4,7 +4,7 @@ title: "OVERNIGHT OATS | easy breakfast mason jar recipe & ideas."
 date: 2018-09-01 19:00:18 +0200
 modified: 2018-09-01 19:00:18 +0200
 image: overnight-oats-jar-recipe-1.jpg
-tags: [overnight oats, mason jar recipe, cold oat, breakfast, protein, fiber, almond milk, hemp seeds, simple recipe, breakfast, vegan breakfast, vegan, quick breakfast, breakfast ideas, easy breakfast ideas, meal ideas, nutrition, breakfast recipes, healthy breakfast, breakfast for kids]
+tags: [how to make overnight oats, overnight oats, mason jar recipe, cold oat, breakfast, protein, fiber, almond milk, hemp seeds, simple recipe, breakfast, vegan breakfast, vegan, quick breakfast, breakfast ideas, easy breakfast ideas, meal ideas, nutrition, breakfast recipes, healthy breakfast, breakfast for kids]
 categories: nutrition
 description: A well balanced and nutrient dense recipe with macronutrients - protein, healthy fat, and fiber! 
 ---
