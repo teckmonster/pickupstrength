@@ -12,6 +12,10 @@ layout: default
       <div class="c-author__name">{{site.author-name}}</div>
       <span class="c-author__job">{{site.author-job}}</span>
     </div>
+    <div class="c-author__info">
+      <div class="c-author__name">{{site.author-mantra-1}}</div>
+      <span class="c-author__job">{{site.author-mantra-2}}</span>
+    </div>      
     <div class="c-contact-menu">
       {% if site.author-email %}
       <a href="/contact" class="c-contact-btn c-btn c-btn--primary c-btn--round c-btn--shadow"><span data-icon='ei-envelope' data-size='m'></span> Contact</a>
@@ -32,12 +36,12 @@ layout: default
     </div>
     <p class="c-author__about">{{site.about-author | strip_html | truncatewords: 50}}</p>
   </div>
-
-
-    <div class="c-author__info">
-      <div class="c-author__name">{{site.author-mantra-1}}</div>
-      <span class="c-author__job">{{site.author-mantra-2}}</span>
-    </div>
+  <div class="c-sidebar-subscribe">
+  <div class="c-sub__title">Subscribe</div>
+  <ul class="c-social__list u-lists-reset">
+  <script src="https://apis.google.com/js/platform.js"></script>
+  <div class="g-ytsubscribe" data-channelid="UCLeyIA2hNpC8rx7u_j7ecVQ" data-layout="full" data-count="hidden"></div>
+  </div>  
   <div class="c-sidebar-footer">
     <div class="c-social">
       <div class="c-social__title">Social</div>

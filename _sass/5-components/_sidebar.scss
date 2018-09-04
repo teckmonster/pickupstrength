@@ -72,6 +72,41 @@
   }
 }
 
+.c-sidebar-subscribe {
+  .c-sub__title {
+    position: relative;  
+    font-family: 'Volkhov', serif;
+    font-size: 15px;
+    font-weight: 700;
+    color: $darkest;
+    &::before {
+      content: "";
+      display: block;
+      height: 2px;
+      width: calc(45% - 40px);
+      transform: translateY(-50%);
+      position: absolute;
+      top: 50%;
+      left: 0;
+      background-color: $darkest;
+    }
+    &::after {
+      content: "";
+      display: block;
+      height: 2px;
+      width: calc(45% - 40px);
+      transform: translateY(-50%);
+      position: absolute;
+      top: 50%;
+      right: 0;
+      background-color: $darkest;
+    }
+  }
+  .g-ytsubscribe {
+    margin: 15px 5px;
+    display: inline-block;      
+  }
+}
 .c-sidebar-footer {
   .c-social__title {
     position: relative;
