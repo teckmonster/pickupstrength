@@ -4,7 +4,7 @@ title: "BREATHING TECHNIQUES | that you might not have known before."
 date: 2018-08-20 20:13:18 +0200
 modified: 2018-08-20 20:13:18 +0200
 image: yoga-pranayama.jpg
-tags: [Breathing technique, Meditation, Child Labor Breathing, Stress Management, Sleep Quality, Respiratory Rate, Qualify of life, Yoga Breathing, Breathing Technique in Lifting, Deescalate Patients, Self Care, YogaWorks]
+tags: [pick up strength, Breathing technique, Meditation, Child Labor Breathing, Stress Management, Sleep Quality, Respiratory Rate, Qualify of life, Yoga Breathing, Breathing Technique in Lifting, Deescalate Patients, Self Care, YogaWorks]
 categories: strength
 description: The typical respiratory rate is between 15 to 20 breaths per minutes while resting. You can train your breath to be five breaths per minute with some of the breathing technique I am going to mention. 
 ---

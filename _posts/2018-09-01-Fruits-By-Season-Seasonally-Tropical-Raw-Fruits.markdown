@@ -4,7 +4,7 @@ title: "FRUITS BY SEASON | seasonally, tropical, raw fruits."
 date: 2018-09-01 19:00:18 +0200
 modified: 2018-09-01 19:00:18 +0200
 image: Fruits-By-Season.png
-tags: [fruit are in season, fruits by season, raw fruits, organic fruits, tropical fruits]
+tags: [pick up strength, fruit are in season, fruits by season, raw fruits, organic fruits, tropical fruits]
 categories: nutrition
 description: My 12 Favorite Fruits To Eat By Season
 ---

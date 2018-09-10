@@ -4,7 +4,7 @@ title: "TRAINING PROGRAM | the complete 4-week program for a beginner (+ printab
 date: 2018-07-21 21:13:18 +0200
 modified: 2018-08-14 20:13:18 +0200
 image: barbell-squat.jpg
-tags: [complete training program for beginners, barbell squat for beginners, strength training, strong, beginner, resistance training program pdf, squat, bench, deadlift, kettlebells, barbell, dumbbell, resistance bands]
+tags: [pick up strength, complete training program for beginners, barbell squat for beginners, strength training, strong, beginner, resistance training program pdf, squat, bench, deadlift, kettlebells, barbell, dumbbell, resistance bands]
 categories: strength
 description: The Complete 4-Week Training Program For Beginner
 ---

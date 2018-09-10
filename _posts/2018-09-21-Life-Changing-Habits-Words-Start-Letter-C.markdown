@@ -4,7 +4,7 @@ title: "LIFE-CHANGING HABITS | with these words starting with the letter C (+ pr
 date: 2018-08-25 22:13:18 +0200
 modified: 2018-08-25 22:13:18 +0200
 image: positive-wordcloud-letter-c.png
-tags: [positive-words-that-start-with-c, life-changing habits, positive thoughts, creativity, courage, curiosity, Norman Vincent Peale, Nightingale, the strangest secret]
+tags: [pick up strength, positive-words-that-start-with-c, life-changing habits, positive thoughts, creativity, courage, curiosity, Norman Vincent Peale, Nightingale, the strangest secret]
 categories: lifestyle
 description: For every negative thoughts or word, replace it with the positive thoughts or words. 
 ---

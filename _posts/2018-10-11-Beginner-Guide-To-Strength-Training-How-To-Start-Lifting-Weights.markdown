@@ -39,11 +39,11 @@ A standard barbell weighs about 20 kg (~ 45 lbs). I like to start out with an em
 
 For those who train at home and are not use to barbell squats, you can start with a couple body squat for warm-up and pick up the 12kg (~ 25 lbs) or 16kg kettlebells for goblet squat. 
 
-#### Starting Steangth - learn these 3 basic barbell techniques
+#### Starting Strength - learn these 3 basic barbell techniques
 
 There are many exercises out there you can do to improve your strength and wellness. When starting anything new, do not introduce too much variety. Sometimes, it can be overwhelmed. I recommend getting the basic barbell techniques (squat, bench or overhead press, and deadlift) down. There are tons of tutorials videos to learn how to perform the movement. 
 
-I have a [printable version][program] of training program so you can get an idea what it is like. I do highly recommended to get a local coach so you get your basic cover.
+I have a [printable version][program] of training program so you can get an idea what it is like. I do highly recommend to get a local coach, so you get your basic cover.
 
 [program]: https://pickupstrength.com/strength/complete-4-week-training-program-beginner/
 
@@ -53,26 +53,26 @@ Having the underlying anatomy, I understand where the muscles are and allow me t
 
 #### Breathing techniques
 
-Breathing technique is important in weight training. We practice breathing to protect our spine. Think of your spine, you need to make it fill with air when moving the weights. 
+Breathing technique is crucial in weight training. We practice breathing to protect our spine. Think of your spine, you need to make it fill with air when moving the weights. 
 
-I have wrote an article about diaphragmatic breathing. If it does not click, Kyle from [T Nation][tnation] simplistic explanation is that you can image of one rubber band around your belly and one rubber band around your chest. Both rubber bands should expand as you take a breath in. 
+I have written an article about diaphragmatic breathing. If it does not click, Kyle from [T Nation][tnation] simplistic explanation is that you can image of one rubber band around your belly and one rubber band around your chest. Both rubber bands should expand as you take a breath in. 
 
 A short clip from Mark Rippetoe 
 https://www.youtube.com/watch?v=ECTeHDD_RrM
 
-> It has to do with an instantous tightling right at the second when the greater force is played. We are playing force for the whole rep and not for just the duration of a blow. 
+> It has to do with an instantaneous tightening right at the second when the greater force is played. We are playing force for the whole rep and not for just the duration of a blow. 
 We are going to take a big breath, we are going to hold it, we are going squeeze down and up. We are going to use that to protect our spine. ~ Mark Rippetoe
 
 [Valsalva Maneuver][valsalva] : 
  
- My translation is in parenthesis. ()
+ My translation is in parenthesis below.
 
 * Inhale Before or During the Negative. (Unrack, inhale, when ready sip a little more air, brace, squat down)
-* Exhale Against Closed Glottis at Start of the Positive. (brace)
-* Exhale After Sticking Point & Complete the Positive. (brace, squat up until you past the sticking point, then exhale)
+* Exhale Against Closed Glottis at Start of the Positive. (brace, still holding my breath)
+* Exhale After Sticking Point & Complete the Positive. (brace, squat up until you passed the sticking point, then exhale)
 * Repeat
 
-The next time when you are doing planks or sit on an imaginary chair behind a wall, don't hold for certain time period like 45s, instead count your breaths. This way you get to practice with the breathing techniques.
+The next time when you are doing planks or sit on an imaginary chair behind a wall, don't hold for a specific time period like 45s, instead count your breaths. This way you get to practice with the breathing techniques.
 
 #### What is #1 lifting exercise you should start
 
@@ -84,7 +84,7 @@ You just need to do it. There might be a time you are sore, tired, no time, or i
 
 #### Recovery & nutrition
 
-Proper recovery is essential. Make sure you get enough sleep. Take an epsom salt bath. foam roll.
+Proper recovery is essential. Make sure you get enough sleep. Take an Epsom salt bath. Foam roll.
 
 #### Nutrition
 
@@ -100,4 +100,4 @@ Make sure you get enough protein throughout the day. 1.5g per lb. Have carbs bef
 [valsalva]: http://www.kingofthegym.com/valsalva-maneuver/
 
 
-Starting strength
+Starting strength book.

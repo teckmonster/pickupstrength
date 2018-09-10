@@ -35,6 +35,8 @@ Main variation:
 
      » my almond vanilla green smoothie
 
+     » oatmeal
+
 Fruit variation: 
 
 * Papaya

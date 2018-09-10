@@ -4,7 +4,7 @@ title: "GLUTES EXERCISES | exercises that target the peaches and grow booty with
 date: 2018-08-11 20:13:18 +0200
 modified: 2018-08-14 20:13:18 +0200
 image: glute-booty.jpg
-tags: [what are the best glute exercises, exercises build glutes, exercise works the gluteus medius, best glutes exercises to grow your glute, training programs, lower body exercises, resistance training, resistance band, booty band, RDL, glute bridge, squat, Bulgarian split squat, hip thrusts, gain muscle,fitness motivation,health,physique]
+tags: [pick up strength, what are the best glute exercises, exercises build glutes, exercise works the gluteus medius, best glutes exercises to grow your glute, training programs, lower body exercises, resistance training, resistance band, booty band, RDL, glute bridge, squat, Bulgarian split squat, hip thrusts, gain muscle,fitness motivation,health,physique]
 categories: strength
 description: You do not really need to go to a gym or need a big machine to start resistance training. You can begin to resistance training at your home or basement with just 2 things.
 ---

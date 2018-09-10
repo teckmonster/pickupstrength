@@ -4,7 +4,7 @@ title: "THE BEST DOG PARK IN ATLANTA| hidden dog beach in Morningside Nature Pre
 date: 2018-09-06 18:13:18 +0200
 modified: 2018-09-06 18:13:18 +0200
 image: atlanta-trails.jpg
-tags: [dog park in atlanta, hotatlanta, morningside nature preserve, dog beach in atlanta, best hiking trails for dogs in atlanta, thing to do in atlanta, things to explore in atlanta]
+tags: [pick up strength, dog park in atlanta, hotatlanta, morningside nature preserve, dog beach in atlanta, best hiking trails for dogs in atlanta, thing to do in atlanta, things to explore in atlanta]
 categories: lifestyle
 description: I want to share my 12 tips for beginner's guide to strength training. 
 ---

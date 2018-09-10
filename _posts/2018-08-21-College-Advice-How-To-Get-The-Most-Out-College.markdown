@@ -4,7 +4,7 @@ title: "COLLEGE ADVICE | what I wish someone had told me before college."
 date: 2018-08-25 21:13:18 +0200
 modified: 2018-08-25 20:13:18 +0200
 image: college-advice-cornell-campus.png
-tags: [college tips, new semester, college advice, international students, study abroad, study in the United States, fall semester, Georgia Tech, Cornell University, campus life]
+tags: [pick up strength, college tips, new semester, college advice, international students, study abroad, study in the United States, fall semester, Georgia Tech, Cornell University, campus life]
 categories: lifestyle
 description: Since college is starting and coming around, I thought it would be helpful to talk about some of the college advice I would give to myself when I was a student.
 ---
