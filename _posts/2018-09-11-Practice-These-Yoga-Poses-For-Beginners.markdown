@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "ASANA | incorporate these yoga poses in your daily routine."
-date: 2018-09-11 18:13:18 +0200
-modified: 2018-09-11 18:13:18 +0200
+date: 2018-09-11 17:13:18 +0200
+modified: 2018-09-11 17:13:18 +0200
 image: chaturanga.jpg 
 tags: [pick up strength, the yoga solution, beginning yoga, yoga basics, yoga poses for beginners at home, yoga for complete beginners, yoga for flexibility and strength]
 categories: strength
