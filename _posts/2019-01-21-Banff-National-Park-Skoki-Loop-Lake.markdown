@@ -32,8 +32,6 @@ Todo : Banff Avenue. Tunnel Mountain.
 Todo : Check in at High Country Inn after 4PM. Check out at 11AM. HCIAB00253769
 Todo : Hoodoos Viewpoint. Vermillion Lake. 
 
-
-
 http://moosehotelandsuites.com/wp-content/uploads/2016/07/Lunch-menu-low.pdf
 https://canadianrockieshiking.com/backpacking-trips/easiest-programs/skoki-circuit-hiking/
 https://sevencontinentssasha.com/top-10-things-to-see-do-in-banff-canada/
