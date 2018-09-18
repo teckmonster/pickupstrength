@@ -31,4 +31,5 @@ Coming soon.
 ![]({{site.baseurl}}/images/yoga-poses.jpg)
 
 Until next time,
+
 ❤ tm

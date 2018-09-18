@@ -44,6 +44,8 @@ Dumbbell Curls
 Hip Thrust
 
 
+"boys vs girls morning routine\",\"moring routine boys vs girls\",\"morning routine\",\"girls vs boys\",\"guys vs girls\",\"boys vs girls\",\"morning\",\"routine\",\"morning routine guys vs girls\",\"guys vs girls morning routine\",\"morning routine for guys\",\"morning routine for girls\",\"guys routine\",\"girls routine\",\"getting ready\",\"how guys get ready\",\"how girls get ready\",\"rikshawaali\",\"anisha dixit\",\"rikshawali\",\"anisha\",\"daily routine\"
+
 ❤ tm
 
 

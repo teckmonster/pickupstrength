@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "ABOUT"
-image: bill-williams-hummingbird-unsplash.jpg
-tags: [welcome, community, about, pickupstrength, curiousity]
+image: pickupstrength-pus.jpg
+tags: [empowering, nourishing, exploring, centering, being, everything, welcome, community, about, pickupstrength, curiousity]
 categories: about
 ---
 Hi there!
@@ -34,9 +34,6 @@ follow along on instagram @PICKUPSTRENGTH
 
 <iframe src="https://www.youtube.com/embed/NUF9_-qsysE" frameborder="0" allowfullscreen></iframe>
 ****
-
-Credit: Photo by Bill Williams. @imwilliamwilliams
-
 
 <!---
 
