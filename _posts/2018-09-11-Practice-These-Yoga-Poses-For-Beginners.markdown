@@ -9,8 +9,6 @@ categories: strength
 description: 10 beginners yoga poses for flexibility and strength at home. 
 ---
 
-Coming soon.
-
 #### Cat & Cow
 
 Cat & Cow poses are typically done in a pair to warm up the spine from your neck region to your tailbone. Often time we are sitting all day and shrugging our shoulders and cause much tension in those areas. I love these poses because it is accessible to achieve. Practice cat & caw to open up your chest and increase the fluidity of your body.
