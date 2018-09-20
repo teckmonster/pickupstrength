@@ -4,7 +4,7 @@ title: "THE BEST DOG PARK IN ATLANTA| hidden dog beach in Morningside Nature Pre
 date: 2018-09-06 18:13:18 +0200
 modified: 2018-09-06 18:13:18 +0200
 image: atlanta-trails.jpg
-tags: [pick up strength, dog park in atlanta, hotatlanta, morningside nature preserve, dog beach in atlanta, best hiking trails for dogs in atlanta, thing to do in atlanta, things to explore in atlanta]
+tags: ["pick up strength", dog park in atlanta, hotatlanta, morningside nature preserve, dog beach in atlanta, best hiking trails for dogs in atlanta, thing to do in atlanta, things to explore in atlanta]
 categories: lifestyle
 description: I want to share my 12 tips for beginner's guide to strength training. 
 ---
@@ -18,7 +18,10 @@ This park is tucked inside a quiet neighborhood and has two entrance points: Len
 
 This time of the year, the trail smells fantastic and has a gentle breeze. There are wildflowers alongside the trail, and the aroma is a mix of sweet Jasmine and ripped peach. Part of the path is exposed to the sun with tall grass, and part of the trail is shaded with tall wood. It does remind me of backpacking in the wilderness with our pups in Roan Mountain except this trail is smooth and flat.
 
-This nature preserve actually has a nickname called 'dog beach.’ Our two little dogs actually got brave and swam across the stream. Soon, I will post the footage we got in the trail and how we teach our dogs to overcome the fear of water on #pickupstrength YouTube channel. 
+This nature preserve actually has a nickname called 'dog beach.’ Our two little dogs actually got brave and swam across the stream. Soon, below is the footage we got in the trail and how we teach our dogs to overcome the fear of water.
+
+<iframe src="https://www.youtube.com/embed/8y9vMLkbrLM" frameborder="0" allowfullscreen></iframe>
+****
 
 If you find this post useful or decide to bring your dogs to visit the trail, definitely let me know in the comments below and do check out [Atlanta Trails][atltrail] for more information! 
 
@@ -26,6 +29,7 @@ Until next time,
 ❤ tm
 
 ![]({{site.baseurl}}/images/dog-beach-atlanta.png)
+
 
 ***
 
