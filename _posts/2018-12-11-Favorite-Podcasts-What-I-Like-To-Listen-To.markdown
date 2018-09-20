@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "FAVORITE TOP PODCASTS 2018 | what podcasts I like to listen to while commuting."
+title: "TOP PODCASTS 2018 | what podcasts I like to listen to while commuting."
 date: 2018-09-19 20:13:18 +0200
 modified: 2018-09-19 20:13:18 +0200
 image: podcast.jpg
-tags: [podcast, how I built this, overcast, reply all, planet money]
+tags: [podcast, how I built this, overcast, reply all, planet money, pick up strength, hidden brain]
 categories: lifestyle
 description: I started listening to podcasts when I was commuting to work. My commute was long, and typical spent about 3 hours in the car and eventually developed a habit and collected a list of my favorite podcasts.
 ---
