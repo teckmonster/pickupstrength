@@ -17,7 +17,7 @@ The only childhood memories I had with my parent was rare that I could count on 
 
 Many times, I would watch far away from how the parent reacted to my classmates or my friends or my cousins, and what exactly love and family gathering are having my parent around. I was kind of wishing the same, having a parent gives me props when I needed, having a birthday party, having a private ride home instead of going to the public transportation waiting for 1 hour to catch the next bus, etc. 
 
-I find my way to receive love, to imagine my role model, to learn, and to define myself in this unique circumstance.
+Instead, I find my way to receive love, to imagine my role model, to learn, and to define myself in this unique circumstance.
 
 	"出淤泥而不染，濯清涟而不妖，中通外直，不蔓不枝，香远益清，亭亭净植，可远观而不可亵玩焉."
 
