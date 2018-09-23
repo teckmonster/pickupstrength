@@ -27,6 +27,7 @@ Here are 2018 favorite podcasts:
 * Patagonia: Yvon Chouinard
 * Bumble: Whitney Wolfe
 * Lonely Planet: Maureen and Tony Wheeler
+* Dyson: James Dyson
 
 #### Hidden Brain
 
@@ -41,6 +42,7 @@ Here are 2018 favorite podcasts:
 
 * #125 All My Pets
 * #96 What Kind Of Idiot Get Phished?
+* #115 The Bitcoin Hunter
 
 #### Planet Money
 
@@ -48,12 +50,14 @@ Here are 2018 favorite podcasts:
 
 * #858: Venezuela’s Fugitive Money Traders
 * #729: When Subaru Came Out (listen to this yesterday!!!!)
+* #864: The Central (Bankers') Question
 
 #### HBR IdeaCast
 
     “A weekly podcast featuring the leading thinkers in business and management from Harvard Business Review.”
 
 * 646: The Science Behind Sleep and High Performance
+* 641: Why Opening Up at Work Is Harder for Minorities
 
 Now, I share with you a list! You have to let me know what you think of my recommendations!
 
