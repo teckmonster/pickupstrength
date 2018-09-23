@@ -8,7 +8,6 @@ tags: [pick up strength, my love on lotus, chinese poem, ai lian shuo poem, stre
 categories: strength
 description: My Love on Lotus (爱莲说)
 ---
-"出淤泥而不染，濯清涟而不妖，中通外直，不蔓不枝，香远益清，亭亭净植，可远观而不可亵玩焉."
 
 I attended Chinese Independent High School for three years before moving to the United States. I would learn Chinese culture, poem, and history in my Chinese class. The traditional language is complicated to understand except this poem - my love on Lotus stuck with me.
 
@@ -19,6 +18,8 @@ The only childhood memories I had with my parent was rare that I could count on 
 Many times, I would watch far away from how the parent reacted to my classmates or my friends or my cousins, and what exactly love and family gathering are having my parent around. I was kind of wishing the same, having a parent gives me props when I needed, having a birthday party, having a private ride home instead of going to the public transportation waiting for 1 hour to catch the next bus, etc. 
 
 I find my way to receive love, to imagine my role model, to learn, and to define myself in this unique circumstance.
+
+	"出淤泥而不染，濯清涟而不妖，中通外直，不蔓不枝，香远益清，亭亭净植，可远观而不可亵玩焉."
 
 Lotus flowers in Chinese represents the creative, resilient, and purity power in a dark environment. My Love on Lotus, this poem resonates with me deeply. In respect that is growing up in the muddy pond, it does not contaminate, and it does not seem seductive even being washing off in clear water for years, it keeps the flower petals clean, alive, and healthy. 
 
