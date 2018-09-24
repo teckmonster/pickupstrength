@@ -15,7 +15,7 @@ My parent was working hard abroad. I grew up with my grandparent (my mother side
 
 The only childhood memories I had with my parent was rare that I could count on my five fingers. Not 5000, 500, 50 moments, it was 5. Some relatives would think our siblings, and I would turn into some gangsters, poor kids making bad grades at school, doing drugs, running around the street instead of taking piano lessons, computer lessons, calligraphy, etc. 
 
-Many times, I would watch far away from how the parent reacted to my classmates or my friends or my cousins, and what exactly love and family gathering are having my parent around. I was kind of wishing the same, having a parent gives me props when I needed, having a birthday party, having a private ride home instead of going to the public transportation waiting for 1 hour to catch the next bus, etc. 
+Many times, I would watch far away from how the parent reacted to my classmates or my friends or my cousins, and what exactly love and family gathering if I had my parent around. I was kind of wishing the same, having a parent gives me props when I needed, having a birthday party, having a private ride home instead of going to the public transportation waiting for 1 hour to catch the next bus, etc. 
 
 Instead, I find my way to receive love, to imagine my role model, to learn, and to define myself in this unique circumstance.
 
