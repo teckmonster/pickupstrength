@@ -9,6 +9,12 @@ categories: strength
 description: 10 beginners yoga poses for flexibility and strength at home. 
 ---
 
+Flowing through a sequence vs. teaching a sequence is not the same thing. There are so much to learn to be a student to a teacher.
+
+Practice teaching yoga, I learn to slow things down and break down one pose into five parts. Slow down from 5 beeps per second to 1 beep per second.
+
+I hope you will find these asana useful!
+
 #### Cat & Cow
 
 Cat & Cow poses are typically done in a pair to warm up the spine from your neck region to your tailbone. Often time we are sitting all day and shrugging our shoulders and cause much tension in those areas. I love these poses because it is accessible to achieve. Practice cat & caw to open up your chest and increase the fluidity of your body.
@@ -32,15 +38,35 @@ Focus on diaphragmatic breathing.
 
 #### Updog or Cobra
 
+Spread fingers wide apart,
+Even out those knuckles,
+Inhale press into your hands to lift up,
+Chest up, tall neck, shoulder away from your ears,
+Engage with your legs,
+Press top of your feet against the mat,
+Lift knees off the mat,
+Distribute weight evenly, and look up.
+
 #### Down Dog
+
+Learning from failures and enjoying the process along the way, instead of aiming for perfection or getting the results.
+
+It is totally fine that you can't touch your heels to the mat. Put a bend on your knees and focus on keeping your sitting bone facing the ceiling.
 
 #### Twisted High Lunges
 
 #### Wide-Legged Forward Fold
 
 
+It is important to incorporate diaphragmatic breathing in yoga practice. I have written a [post][post] about it.
+
+
 ![]({{site.baseurl}}/images/yoga-poses.jpg)
+
 
 Until next time,
 
 ❤ tm
+
+
+[post]: https://pickupstrength.com/strength/breathing-techniques-you-might-not-have-known/
