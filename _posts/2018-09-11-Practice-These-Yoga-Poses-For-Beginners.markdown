@@ -62,7 +62,22 @@ Learning from failures and enjoying the process along the way, instead of aiming
 
 It is totally fine that you can't touch your heels to the mat. Put a bend on your knees and focus on keeping your sitting bone facing the ceiling.
 
-#### Twisted High Lunges
+#### Anjaneyasana (Crescent Lunge Twist)
+
+Align your knee directly over the heel of your front foot.
+
+Hands in prayer position.
+
+Inhale grew taller.
+
+Exhale twist your torso to the right.
+
+Your left elbow is outside of your right thigh.
+
+To deepen the pose, extend both arms open.
+
+Turn your gaze toward the sky or turn your gaze toward the earth if it is uncomfortable for your neck.
+
 
 #### Wide-Legged Forward Fold
 
