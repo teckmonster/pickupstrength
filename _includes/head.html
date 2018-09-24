@@ -37,12 +37,6 @@
     <meta content="{{ tag }}" property="article:tag">
     {% endfor %}
   {% endif %}
-  <style>
-    {% capture include_to_scssify %}
-      {% include main.scss %}
-    {% endcapture %}
-    {{ include_to_scssify | scssify }}
-  </style>
 <!-- Twitter cards -->
 <meta name="twitter:site"    content="@{{ site.author-twitter }}">
 <meta name="twitter:creator" content="@{{ site.author-name }}">
@@ -124,4 +118,10 @@
         }
     }
 </script>
+  <style>
+    {% capture include_to_scssify %}
+      {% include main.scss %}
+    {% endcapture %}
+    {{ include_to_scssify | scssify }}
+  </style>
 </head>
