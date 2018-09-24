@@ -2,9 +2,9 @@
 layout: post
 title: "ASANA | incorporate these yoga poses into your daily routine."
 date: 2018-09-11 17:13:18 +0200
-modified: 2018-09-11 17:13:18 +0200
+modified: 2018-09-23 17:13:18 +0200
 image: chaturanga.jpg 
-tags: [pick up strength, the yoga solution, beginning yoga, yoga basics, yoga poses for beginners at home, yoga for complete beginners, yoga for flexibility and strength]
+tags: [pick up strength, the yoga solution, beginning yoga, yoga basics, yoga poses for beginners at home, yoga for complete beginners, yoga for flexibility and strength, Urdhvamukha Shavasana]
 categories: strength
 description: 10 beginners yoga poses for flexibility and strength at home. 
 ---
@@ -28,6 +28,8 @@ Chaturanga Dandasana is the foundational pose of yoga sequences and many times i
 
 Couple mistakes to avoid is that don't let your shoulders collapse below elbows and do not stick your butt up. If you have not developed arm balance strength, it is okay to drop your knees and activate your core strength. 
 
+![]({{site.baseurl}}/images/yoga-poses.jpg)
+
 #### Child Pose
 
 There is the time our body is requesting a pause, and we need to listen to our body. It is okay to surrender and come to a child pose to reconnect your breathing, your mind. 
@@ -36,15 +38,22 @@ Focus on diaphragmatic breathing.
 
 #### Puppy Pose Shoulder Stretch Variation
 
-#### Updog or Cobra
+#### Urdhvamukha Shavasana (Upward Facing Dog)
 
 Spread fingers wide apart,
+
 Even out those knuckles,
+
 Inhale press into your hands to lift up,
+
 Chest up, tall neck, shoulder away from your ears,
+
 Engage with your legs,
+
 Press top of your feet against the mat,
+
 Lift knees off the mat,
+
 Distribute weight evenly, and look up.
 
 #### Down Dog
@@ -58,15 +67,14 @@ It is totally fine that you can't touch your heels to the mat. Put a bend on you
 #### Wide-Legged Forward Fold
 
 
-It is important to incorporate diaphragmatic breathing in yoga practice. I have written a [post][post] about it.
 
 
-![]({{site.baseurl}}/images/yoga-poses.jpg)
+
+It is important to incorporate diaphragmatic breathing in yoga practice. You may find this [post][post] useful.
 
 
 Until next time,
 
 ❤ tm
-
 
 [post]: https://pickupstrength.com/strength/breathing-techniques-you-might-not-have-known/
