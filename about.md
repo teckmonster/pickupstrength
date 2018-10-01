@@ -12,10 +12,13 @@ Teckmon graduated with a degree in Engineering from Georgia Tech and currently w
 
 Teckmon has been practicing yoga for eight years and received her 200-hour Yoga Certification from YogaWorks in Atlanta under Becky Nickerson in 2018. Vinyasa flow is foundational to Teckmon’s yoga practice as she combines awareness of breath and movement while focusing on proper body alignment. She believes yoga is a wellness process that nourishes the body, mind, and soul. Teckmon strives to make yoga accessible to people of all ages and skill levels.
 
+***
 
 # About Pick Up Strength
 
 In Pick Up Strength, this place will fill with creativity, non-judgment, positivity, and a healthy dose of encouragement and curiosity. 
+
+***
 
 # Events
 
