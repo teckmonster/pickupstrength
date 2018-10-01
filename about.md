@@ -17,6 +17,25 @@ Teckmon has been practicing yoga for eight years and received her 200-hour Yoga 
 
 In Pick Up Strength, this place will fill with creativity, non-judgment, positivity, and a healthy dose of encouragement and curiosity. 
 
+# Events
+
+Upcoming:
+
+#### Introduction to Yoga, Fall 2018 Series
+
+Oct 9, 2018 - Nov 13, 2018
+
+Tuesday, 5:00 PM - 6:00 PM
+
+NRSG 108, School of Nursing, Emory University.
+
+Please join me for this special collaborative yoga series with the School of Nursing at Emory University.
+
+There will be a total of 6 series covered themes in breathing, self-care, Dhyana (meditation), Santosha (contentment), Attachment, and Yoga Sutras of Patanjali - Yogas Citta Vrtti Nirodha.
+
+
+
+***
 
 Share with love,
 
