@@ -1,41 +1,46 @@
 ---
 layout: post
-title: "ABOUT"
+title: " "
 image: pickupstrength-pus.jpg
 tags: [empowering, nourishing, exploring, centering, being, everything, welcome, community, about, pickupstrength, curiousity]
 categories: about
 ---
-Hi there!
 
-I am the creator of Pick Up Strength and currently reside in the United States. 
+# About Teckmon
 
-I graduated with a degree in Engineering and currently working in the business intelligence and data analytics fields. Outside of my day job, I enjoyed coding with creativity, pick up strength with a barbell, and backpacking in the wilderness, and last but not least, sharing more content in Pick Up Strength.
+Teckmon graduated with a degree in Engineering from Georgia Tech and currently working in the business intelligence and data analytics fields. Outside of her day job, she enjoys coding with creativity, pick up strength with a barbell, and backpacking in the wilderness, and last but not least, sharing content in Pick Up Strength.
+
+Teckmon has been practicing yoga for eight years and received her 200-hour Yoga Certification from YogaWorks in Atlanta under Becky Nickerson in 2018. Vinyasa flow is foundational to Teckmon’s yoga practice as she combines awareness of breath and movement while focusing on proper body alignment. She believes yoga is a wellness process that nourishes the body, mind, and soul. Teckmon strives to make yoga accessible to people of all ages and skill levels.
+
+
+# About Pick Up Strength
+
+In Pick Up Strength, this place will fill with creativity, non-judgment, positivity, and a healthy dose of encouragement and curiosity. 
+
+
+Share with love,
+
+❤ Teckmon
+
+follow along on instagram @PICKUPSTRENGTH
+
+***
+
+
+<!---
 
 As I am sitting here and trying to craft the best about page for Pick Up Strength to grab your attention, I don't have one. I don't have one yet. I am still figuring out, and I don't want to put a limit in it of what it will be becoming. However, I do know that I want to create a place for my audiences and myself to grow strong, to explore, to be curious, and to learn from a different perspective and be open-minded to try new things. I guess it is part of the process.
 
-I want to share my stories from my perspective through my special lenses. The conflict interest of being a dual identity, the curious mind I always carry with me as a little girl, the strength and confidence I found through some boring and tedious paint strokes and lifting sets and reps, the nerdiness and creativity I develop when I start to code are all part of the features define the unique me.
+	"Curiosity and discipline create passion. If you wait for motivation, you will never get anything done. Be curious. Be receptive. ❤ Pick Up Strength"
 
-> Curiosity and discipline create passion. If you wait for motivation, you will never get anything done. Be curious. Be receptive. ❤ Pick Up Strength
-
-In Pick Up Strength, this place will fill with creativity, non-judgment, positivity, and a healthy dose of encouragement and curiosity. I want to help people who have similar barriers and obstacles. Obstacles like in learning a new language, moving to a new place, getting through college, strength training, nutrition, cross-cultural relationship, stress management, get a stronger mind and body, etc. I hope that you will learn something new from me and to share with others. 
+I want to help people who have similar barriers and obstacles. Obstacles like in learning a new language, moving to a new place, getting through college, strength training, nutrition, cross-cultural relationship, stress management, get a stronger mind and body, etc. I hope that you will learn something new from me and to share with others. 
 
 The one thing I am asking for my audiences is being receptive, curious to explore beyond your horizon, and take action. There is no limit unless you put a boundary at the end. 
 
 Curiosity sparks questions. Curiosity creates action. Curiosity is inclusive. Curiosity is our non-judgment friend that always invite us and give us clues. I found my strength and confidence through curiosity about weightlifting. 
 
 
-Be a humble hummingbird,
-
-❤ tm
-
-follow along on instagram @PICKUPSTRENGTH
-
-***
-
-<iframe src="https://www.youtube.com/embed/NUF9_-qsysE" frameborder="0" allowfullscreen></iframe>
-****
-
-<!---
+I want to share my stories from my perspective through my special lenses. The conflict interest of being a dual identity, the curious mind I always carry with me as a little girl, the strength and confidence I found through some boring and tedious paint strokes and lifting sets and reps, the nerdiness and creativity I develop when I start to code are all part of the features define the unique me.
 
 I grew up with my grandparents in the countryside a couple of hours away from Kuala Lumpur in Malaysia. I am always curious about things and enjoy learning how things work from start to finish. I moved to the United States with my family at the end of 9th grade and it was a drastic change in my life and I had to redefine myself, my purpose of life in a new country. I was lost and struggled with life.
 
