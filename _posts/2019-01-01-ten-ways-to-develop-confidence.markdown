@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "10 Ways To Develop Confidence"
-date: 2018-10-01 20:13:18 +0200
+date: 2019-10-01 20:13:18 +0200
 header-img: "images/3.jpg"
 image: 3.jpg
 tags: [confidence, lifestyle]
