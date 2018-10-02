@@ -32,7 +32,7 @@ Tuesday, 5:00 PM - 6:00 PM
 
 NRSG 108, School of Nursing, Emory University.
 
-Please join me for this special collaborative yoga series with the School of Nursing at Emory University.
+Please join me for this special collaborative yoga series with the School of Nursing at Emory University. (Open to all faculty, staff, and students at SON.)
 
 There will be a total of 6 series covered themes in breathing, self-care, Dhyana (meditation), Santosha (contentment), Attachment, and Yoga Sutras of Patanjali - Yogas Citta Vrtti Nirodha.
 
