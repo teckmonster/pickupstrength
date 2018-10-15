@@ -33,9 +33,9 @@ Instead of saying “I don’t have the time,” trying saying “It’s not my 
 
 Instead of saying “I don’t have money,” trying saying “It’s not my priority” and see how you feel and how other feels. If it makes your life or others life easier, you own your priority. If it does not make your life or others life more comfortable, consider allocating your wealth somewhere it needs.
 
-There is no need to make excuses.
+So much so we often make excuses to justify the SOUND. Why? 
 
-There are countless important things to do in life. Life is short. We may or may not get to do all of it but if it sparks your interests, do it and enjoy every bit of it.
+There is no need to make excuses and there are countless important things to do in life. Life is short. We may or may not get to do all of it but if it sparks your interests, free your soul to do it and enjoy every bit of it.
 
 
 
