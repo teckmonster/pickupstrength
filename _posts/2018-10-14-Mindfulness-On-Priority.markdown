@@ -38,7 +38,7 @@ I want to invite my readers to set an intention for today on priority. Mindfulne
 
 So much so we often make excuses to justify the SOUND. Why?
 
-There is no need to make excuses and there are countless important things to do in life. Life is short. We may or may not get to do all of it but if it sparks your interests, free your soul to do it and enjoy every bit of it.
+Life is short and there are countless important things to do in life. If it does not feel right, make accommodation for other lists to be priority. If it feels right, there is no need to make excuses. We may or may not get to do all of it but if it sparks your interests, free your soul to do it and enjoy every bit of it.
 
 
 
