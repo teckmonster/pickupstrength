@@ -12,7 +12,7 @@ description: Mindfulness On Priority
 Teaching and volunteering for my second yoga class, I feel like I have the luxury of people time. It is a rewarding experience when students show up, trust you as a leader, give their health & wellness as a priority, and give one hour of their time to spend it with you. I did not quite get it the first time when I volunteered to teach.
 
 
-Priority - “the fact or condition of being regarded or treated as more important.”
+	"Priority: the fact or condition of being regarded or treated as more important.”
 
 
 Everyone has 24 hours per day. How we use it depends on everyone priority. Some prioritize in their family; some prioritize in their career, some prioritize in their appearance, some prioritize in their knowledge. All priority could fall to the bottom when we neglect our health and well being. 
