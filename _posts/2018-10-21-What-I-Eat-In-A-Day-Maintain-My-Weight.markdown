@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "WHAT I EAT IN A DAY | to maintain my weight."
-date: 2018-10-10 20:13:18 +0200
+date: 2018-11-10 20:13:18 +0200
 image: quick-easy-meal-salmon-dinner.jpg
 header-img: "images/quick-easy-meal-salmon-dinner.jpg"
 tags: [mealfortheday, fueledbyPROBAR, protein]

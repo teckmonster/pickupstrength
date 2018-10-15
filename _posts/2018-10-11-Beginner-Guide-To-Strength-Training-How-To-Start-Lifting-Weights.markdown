@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "BEGINNER'S GUIDE TO STRENGTH TRAINING | how to start lifting weights."
-date: 2018-10-11 20:13:18 +0200
-modified: 2018-10-11 20:13:18 +0200
+date: 2018-10-31 20:13:18 +0200
+modified: 2018-10-31 20:13:18 +0200
 image: glute-booty.jpg
 tags: [beginner lifting, newbies, beginner guide to strength training, weightlifting, powerlifting, bodybuilding, fitness journey, nutrition, lifting life, lifting program, lifting tips, how to become weightlifter, complete guide to strength training, resistance training, performance coach, beginner guide, how to start a fit lifestyle, health & fitness, how to squat, bench, deadlift]
 categories: strength
