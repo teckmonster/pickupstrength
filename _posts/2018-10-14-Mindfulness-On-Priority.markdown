@@ -15,7 +15,7 @@ Teaching and volunteering for my second yoga class, I feel like I have the luxur
 	"Priority: the fact or condition of being regarded or treated as more important.”
 
 
-Everyone has 24 hours per day. How we use it depends on everyone priority. Some prioritize in their family, some prioritize in their career, some prioritize in their appearance, some prioritize in their knowledge. All priority could fall to the bottom when we neglect our health and well being. Opportunities might not be knocking on your doors when nothing makes it to the "list".
+Everyone has 24 hours per day. How we use it depends on everyone priority. Some prioritize in their family, some prioritize in their career, some prioritize in their appearance, some prioritize in their knowledge. All priority could fall to the bottom when we neglect our health and well being. Opportunities might not always be knocking on your doors when nothing makes it to the "list".
 
 Students, teachers, kids, farmers, mother/father-to-be, speakers, we all have priority. Some priority might intersect, most often they do not. Interestingly, we do not understand each other priority which causes conflict in many situations.
 
