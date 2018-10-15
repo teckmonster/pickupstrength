@@ -23,17 +23,18 @@ I want to invite my readers to set an intention for today on priority. Mindfulne
 
 ##### Couple tips for mindfulness on understanding other priority.
 
-We do not have to understand the reasons behind why they do. Instead, we need to realize that the things that they do make them fulfilled and happy.
+	We do not have to understand the reasons behind why they do. Instead, we need to realize that the things that they do make them fulfilled and happy.
 
-We do not have to argue why priorities are set in a certain way, join if it works for you, leave if it does not work for you.
+	We do not have to argue why priorities are set in a certain way, join if it works for you, leave if it does not work for you.
 
 ##### Couple tips for mindfulness on setting your priority.
 
-Instead of saying “I don’t have the time,” trying saying “It’s not my priority” and see how you feel and how other feels. If it feels right for you, you own your priority. If it does not feel right for you, maybe consider being flexible and make accommodation for others.
+	Instead of saying “I don’t have the time,” trying saying “It’s not my priority” and see how you feel and how other feels. If it feels right for you, you own your priority. If it does not feel right for you, maybe consider being flexible and make accommodation for others.
 
-Instead of saying “I don’t have money,” trying saying “It’s not my priority” and see how you feel and how other feels. If it makes your life or others life easier, you own your priority. If it does not make your life or others life more comfortable, consider allocating your wealth somewhere it needs.
+	Instead of saying “I don’t have money,” trying saying “It’s not my priority” and see how you feel and how other feels. If it makes your life or others life easier, you own your priority. If it does not make your life or others life easier, consider allocating your wealth somewhere it needs.
 
-So much so we often make excuses to justify the SOUND. Why? 
+
+So much so we often make excuses to justify the SOUND. Why?
 
 There is no need to make excuses and there are countless important things to do in life. Life is short. We may or may not get to do all of it but if it sparks your interests, free your soul to do it and enjoy every bit of it.
 
