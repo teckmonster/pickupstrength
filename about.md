@@ -10,7 +10,7 @@ categories: about
 
 #### Engineer
 
-Teckmon graduated with a degree in Industrial Engineering (I.E.) from Georgia Tech in 2013. She joined Cornell University Investment Office worked as a Quantitative Investment analyst for 2 years in Ithaca, NY prior moving back to Atlanta, GA. Currently, She is working in the business intelligence and data analytics fields. Her favorite programming languages are SQL and Python, and her favorite software are Tableau, RedGate, Google Analytics, and Git.
+Teckmon graduated with a degree in Industrial Engineering (I.E.) from Georgia Tech in 2013. She joined Cornell University Investment Office and worked as a Quantitative Investment analyst for 2 years in Ithaca, NY prior moving back to Atlanta, GA. Currently, She is working in the business intelligence and data analytics fields. Her favorite programming languages are SQL and Python, and her favorite software are Tableau, RedGate, Google Analytics, and Git.
 
 #### Certified Yoga Instructor
 
