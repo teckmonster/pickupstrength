@@ -10,23 +10,23 @@ categories: about
 
 #### Engineer
 
-Teckmon graduated with a degree in Industrial Engineering (I.E.) from Georgia Tech in 2013 and lived 2 years in Ithaca, NY prior moving back to Atlanta, GA. She is currently working in the business intelligence and data analytics fields. Her favorite programming languages are SQL and Python, and her favorite software are Tableau, RedGate, Google Analytics, and Git.
+Teckmon graduated with a degree in Industrial Engineering (I.E.) from Georgia Tech in 2013. She joined Cornell University Investment Office worked as a Quantitative Investment analyst for 2 years in Ithaca, NY prior moving back to Atlanta, GA. Currently, She is working in the business intelligence and data analytics fields. Her favorite programming languages are SQL and Python, and her favorite software are Tableau, RedGate, Google Analytics, and Git.
 
 #### Certified Yoga Instructor
 
 Teckmon has been practicing yoga for eight years and received her 200-hour Yoga Certification from YogaWorks in Atlanta under Becky Nickerson in 2018. Vinyasa flow is foundational to Teckmon’s yoga practice as she combines awareness of breath and movement while focusing on proper body alignment. She believes yoga is a wellness process that nourishes the body, mind, and soul. Teckmon strives to make yoga accessible to people of all ages and skill levels.
 
+#### Weightlifter
+
+Teckmon loves weightlifting. She had her first coaching lesson at Coffee Gym, and she was hooked! In the beginning, there are some up and down while learning the technique and dialing in with her nutrition. Now, she uses it to stay balanced mentally and physically. You can find all her weightlifting journey @teckmonster. 
+
 #### Everyday Life
 
-Outside of her day job and yoga, she finds creativity through engaging and volunteering in the local community, she sharpens her writing and coding skills through sharing content in Pick Up Strength. (she built this website with Jekyll and deploy blog posts via Terminal command line.) 
+She finds creativity through engaging and volunteering in the local community, she sharpens her writing and coding skills through sharing content in Pick Up Strength. (she built this website with Jekyll and deploy blog posts via Terminal command line.) If you haven't heard from her, she is probably backpacking in the wilderness where there is no cellular access. Her latest trip was backpacking in the Skoki Loop in Banff, Alberta.
 
-To stay strong mentally and physically, she does weightlifting and practice meditation. If you haven't heard from her and her social media is inactive, she is probably backpacking in the wilderness where there is no cellular access. Her latest trip was backpacking in the Skoki Loop in Banff, Alberta.
+## Pick Up Strength
 
-***
-
-## About Pick Up Strength
-
-In Pick Up Strength, this place will fill with creativity, non-judgment, positivity, and a healthy dose of encouragement and curiosity. 
+Teckmon will call herself a weird hummingbird. She loves to explore every single flowers and tree, her favorite is Tea Olive and a field of wildflowers. In Pick Up Strength, this place will fill with creativity, non-judgment, positivity, and a healthy dose of encouragement and curiosity from everywhere she gathers.
 
 ***
 
