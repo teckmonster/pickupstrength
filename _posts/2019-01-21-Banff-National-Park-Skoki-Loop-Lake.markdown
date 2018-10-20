@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Skoki Loop Backpacking in Banff National Park"
-date: 2018-10-20 20:13:18 +0200
+date: 2019-10-20 20:13:18 +0200
 image: quick-easy-meal-salmon-dinner.jpg
 header-img: "images/quick-easy-meal-salmon-dinner.jpg"
 tags: [nutrition, quick and easy meal, meal prep, healthy dinner, recipe, salmon]
