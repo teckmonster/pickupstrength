@@ -6,11 +6,17 @@ tags: [empowering, nourishing, exploring, centering, being, everything, welcome,
 categories: about
 ---
 
-# About Teckmon
+## About Teckmon
+
+#### Engineer
 
 Teckmon graduated with a degree in Industrial Engineering (I.E.) from Georgia Tech in 2013 and lived 2 years in Ithaca, NY prior moving back to Atlanta, GA. She is currently working in the business intelligence and data analytics fields. Her favorite programming languages are SQL and Python, and her favorite software are Tableau, RedGate, Google Analytics, and Git.
 
+#### Certified Yoga Instructor
+
 Teckmon has been practicing yoga for eight years and received her 200-hour Yoga Certification from YogaWorks in Atlanta under Becky Nickerson in 2018. Vinyasa flow is foundational to Teckmon’s yoga practice as she combines awareness of breath and movement while focusing on proper body alignment. She believes yoga is a wellness process that nourishes the body, mind, and soul. Teckmon strives to make yoga accessible to people of all ages and skill levels.
+
+#### Everyday Life
 
 Outside of her day job and yoga, she finds creativity through engaging and volunteering in the local community, she sharpens her writing and coding skills through sharing content in Pick Up Strength. (she built this website with Jekyll and deploy blog posts via Terminal command line.) 
 
@@ -18,13 +24,13 @@ To stay strong mentally and physically, she does weightlifting and practice medi
 
 ***
 
-# About Pick Up Strength
+## About Pick Up Strength
 
 In Pick Up Strength, this place will fill with creativity, non-judgment, positivity, and a healthy dose of encouragement and curiosity. 
 
 ***
 
-# Events
+## Events
 
 Upcoming:
 
