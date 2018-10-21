@@ -12,9 +12,9 @@ categories: about
 
 Teckmon graduated with a degree in Industrial Engineering (I.E.) from Georgia Tech in 2013. She joined Cornell University Investment Office and worked as a Quantitative Investment analyst for 2 years in Ithaca, NY prior moving back to Atlanta, GA. Currently, She is working in the business intelligence and data analytics fields. Her favorite programming languages are SQL and Python, and her favorite software are Tableau, RedGate, Google Analytics, and Git.
 
-#### Certified Yoga Instructor
+#### Registered Yoga Teacher (RYT)
 
-Teckmon has been practicing yoga for eight years and received her 200-hour Yoga Certification from YogaWorks in Atlanta under Becky Nickerson in Spring 2018.  Vinyasa flow is foundational to Teckmon’s yoga practice as she combines awareness of breath and movement while focusing on proper body alignment. She believes yoga is a wellness process that nourishes the body, mind, and soul. She teaches yoga is a way to connect and help people who once struggled like her and hopes to make some impact on their lifestyle.
+Teckmon has been practicing yoga for eight years and received her [yoga-alliance][200-hour Yoga Certification] with Yoga Alliance from YogaWorks in Atlanta under Becky Nickerson in Spring 2018.  Vinyasa flow is foundational to Teckmon’s yoga practice as she combines awareness of breath and movement while focusing on proper body alignment. She believes yoga is a wellness process that nourishes the body, mind, and soul. She teaches yoga is a way to connect and help people who once struggled like her and she hopes to make impact on their lifestyle.
 
 Teckmon strives to make yoga accessible to people of all ages and skill levels through her creative sequences. She applies the bus-stop method to break down challenging poses into 3 bus stops and allow students to make decisions where to go based on how they feel that day. Breathing and meditation did not come at ease for Teckmon. Her breath was once choppy and short, and her muscles are always tight and tense. She enjoys working with students to guide them with some breathing exercises. Currently, she studies and practices meditation. Her goal is to add meditation in her teaching. 
 
@@ -58,6 +58,7 @@ follow along on Instagram @PICKUPSTRENGTH
 
 ***
 
+[yoga-alliance]: https://www.yogaalliance.org/TeacherPublicProfile?tid=211568
 
 <!---
 
