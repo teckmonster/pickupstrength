@@ -82,7 +82,7 @@ Turn your gaze toward the sky or turn your gaze toward the earth if it is uncomf
 #### Wide-Legged Forward Fold
 
 
-
+***
 
 
 It is important to incorporate diaphragmatic breathing in yoga practice. You may find this [post][post] useful.
