@@ -20,7 +20,7 @@ Teckmon strives to make yoga accessible to people of all ages and skill levels t
 
 #### Weightlifter
 
-Teckmon loves weightlifting. She had her first coaching lesson at Coffee Gym in 2016, and she was hooked! In the beginning, there are some up and down while learning the technique and dialing in with her nutrition. Now, she trains consistently to stay balanced mentally and physically. Her goal is to qualify and to compete in American Open in 2020. You can find her weightlifting journey @teckmonster. 
+Teckmon loves weightlifting. She had her first coaching lesson at Coffee Gym in May 2016, and she was hooked! In the beginning, there are some up and down while learning the technique and dialing in with her nutrition. Now, she trains consistently to stay balanced mentally and physically. Her goal is to qualify and to compete in American Open in 2020. You can find her weightlifting journey @teckmonster. 
 
 #### Everyday Life
 
