@@ -14,11 +14,9 @@ Teckmon graduated with a degree in Industrial Engineering (I.E.) from Georgia Te
 
 #### Certified Yoga Instructor
 
-Teckmon has been practicing yoga for eight years and received her 200-hour Yoga Certification from YogaWorks in Atlanta under Becky Nickerson in Spring 2018.  Vinyasa flow is foundational to Teckmon’s yoga practice as she combines awareness of breath and movement while focusing on proper body alignment. She believes yoga is a wellness process that nourishes the body, mind, and soul. She teaches yoga is a way to connect and help people who once struggled and hopes to make some impact on their life.
+Teckmon has been practicing yoga for eight years and received her 200-hour Yoga Certification from YogaWorks in Atlanta under Becky Nickerson in Spring 2018.  Vinyasa flow is foundational to Teckmon’s yoga practice as she combines awareness of breath and movement while focusing on proper body alignment. She believes yoga is a wellness process that nourishes the body, mind, and soul. She teaches yoga is a way to connect and help people who once struggled like her and hopes to make some impact on their lifestyle.
 
-Teckmon strives to make yoga accessible to people of all ages and skill levels through her creative sequences. She applies the bus-stop method to break down challenging poses into 3 bus stops and allow students to make decisions where to go based on how they feel that day. 
-
-Breathing and meditation did not come at ease for Teckmon. Her breath was once choppy and short, and her muscles are always tight and tense. She enjoys working with students to guide them with some breathing exercises. Currently, she studies and practices meditation. Her goal is to add meditation in her teaching. 
+Teckmon strives to make yoga accessible to people of all ages and skill levels through her creative sequences. She applies the bus-stop method to break down challenging poses into 3 bus stops and allow students to make decisions where to go based on how they feel that day. Breathing and meditation did not come at ease for Teckmon. Her breath was once choppy and short, and her muscles are always tight and tense. She enjoys working with students to guide them with some breathing exercises. Currently, she studies and practices meditation. Her goal is to add meditation in her teaching. 
 
 #### Weightlifter
 
