@@ -14,7 +14,7 @@ Teckmon graduated with a degree in Industrial Engineering (I.E.) from Georgia Te
 
 #### Certified Yoga Instructor
 
-Teckmon has been practicing yoga for eight years and received her 200-hour Yoga Certification from YogaWorks in Atlanta under Becky Nickerson in Spring 2018.  Vinyasa flow is foundational to Teckmon’s yoga practice as she combines awareness of breath and movement while focusing on proper body alignment. She believes yoga is a wellness process that nourishes the body, mind, and soul. 
+Teckmon has been practicing yoga for eight years and received her 200-hour Yoga Certification from YogaWorks in Atlanta under Becky Nickerson in Spring 2018.  Vinyasa flow is foundational to Teckmon’s yoga practice as she combines awareness of breath and movement while focusing on proper body alignment. She believes yoga is a wellness process that nourishes the body, mind, and soul. She teaches yoga is a way to connect and help people who once struggled and hopes to make some impact on their life.
 
 Teckmon strives to make yoga accessible to people of all ages and skill levels through her creative sequences. She applies the bus-stop method to break down challenging poses into 3 bus stops and allow students to make decisions where to go based on how they feel that day. 
 
