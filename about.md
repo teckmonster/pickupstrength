@@ -14,13 +14,13 @@ Teckmon graduated with a [Bachelor of Science][degree] in Industrial Engineering
 
 #### Registered Yoga Teacher (RYT 200)
 
-Teckmon has been practicing yoga for eight years and received her [200-hour Yoga Certification][yoga-alliance] with Yoga Alliance from YogaWorks in Atlanta under Becky Nickerson in Spring 2018.  Vinyasa flow is foundational to Teckmon’s yoga practice as she combines awareness of breath and movement while focusing on proper body alignment. She believes yoga is a wellness process that nourishes the body, mind, and soul. She teaches yoga is a way to connect and help people who once struggled like her and she hopes to make impact on their lifestyle.
+Teckmon has been practicing yoga for eight years and received her [200-hour Yoga Certification][yoga-alliance] with Yoga Alliance from YogaWorks in Atlanta under Becky Nickerson in Spring 2018. Vinyasa flow is foundational to Teckmon’s yoga practice as she combines awareness of breath and movement while focusing on proper body alignment. She believes yoga is a wellness process that nourishes the body, mind, and soul. She teaches yoga is a way to connect and help people who once struggled like her and she hopes to make impact on their lifestyle.
 
 Teckmon strives to make yoga accessible to people of all ages and skill levels through her creative sequences. She applies the bus-stop method to break down challenging poses into 3 bus stops and allow students to make decisions where to go based on how they feel that day. Breathing and meditation did not come at ease for Teckmon. Her breath was once choppy and short, and her muscles are always tight and tense. She enjoys working with students to guide them with some breathing exercises. Currently, she studies and practices meditation. Her goal is to add meditation in her teaching. 
 
 #### Weightlifter
 
-Teckmon loves weightlifting. She had her first coaching lesson at Coffee Gym in May 2016, and she was hooked! In the beginning, there are some up and down while learning the technique and dialing in with her nutrition. Now, she trains consistently to stay balanced mentally and physically. Her goal is to qualify and to compete in American Open in 2020. You can find her weightlifting journey @teckmonster. 
+Teckmon loves weightlifting. She had her first coaching lesson at Coffee Gym in May 2016, and she was hooked! In the beginning, there are some up and down while learning the technique and dialing in with her nutrition. Now, she trains consistently to stay balanced mentally and physically. Her goal is to qualify and to compete in American Open in 2020. You can find her weightlifting journey [@teckmonster][teckmonster]. 
 
 #### Everyday Life
 
@@ -60,6 +60,7 @@ follow along on Instagram @PICKUPSTRENGTH
 
 [yoga-alliance]: https://www.yogaalliance.org/TeacherPublicProfile?tid=211568
 [degree]: https://meritpages.com/Teckmon-Siaw-/265492
+[teckmonster]: https://www.instagram.com/teckmonster/
 
 <!---
 
