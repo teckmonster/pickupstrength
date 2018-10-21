@@ -32,7 +32,7 @@ Couple mistakes to avoid is that don't let your shoulders collapse below elbows 
 
 #### Child Pose
 
-There is the time our body is requesting a pause, and we need to listen to our body. It is okay to surrender and come to a child pose to reconnect your breathing, your mind. 
+There is a time our body is requesting a pause, and we need to listen to our body. It is okay to surrender and come to a child pose to reconnect your breathing, your mind. 
 
 Focus on diaphragmatic breathing.
 
