@@ -22,7 +22,7 @@ Breathing and meditation did not come at ease for Teckmon. Her breath was once c
 
 #### Weightlifter
 
-Teckmon loves weightlifting. She had her first coaching lesson at Coffee Gym in 2014, and she was hooked! In the beginning, there are some up and down while learning the technique and dialing in with her nutrition. Now, she trains consistently to stay balanced mentally and physically. You can find her weightlifting journey @teckmonster. 
+Teckmon loves weightlifting. She had her first coaching lesson at Coffee Gym in 2014, and she was hooked! In the beginning, there are some up and down while learning the technique and dialing in with her nutrition. Now, she trains consistently to stay balanced mentally and physically. Her goal is to qualify and to compete in American Open in 2020. You can find her weightlifting journey @teckmonster. 
 
 #### Everyday Life
 
@@ -46,7 +46,8 @@ Tuesday, 5:00 PM - 6:00 PM
 
 NRSG 108, School of Nursing, Emory University.
 
-Please join me for this special collaborative yoga series with the School of Nursing at Emory University. (Open to all faculty, staff, and students at SON.)
+Please join me for this special collaborative yoga series with the School of Nursing at Emory University. 
+(Open to all faculty, staff, and students at SON.)
 
 
 ***
@@ -55,7 +56,7 @@ Share with love,
 
 ❤ Teckmon
 
-follow along on instagram @PICKUPSTRENGTH
+follow along on Instagram @PICKUPSTRENGTH
 
 ***
 
