@@ -20,11 +20,11 @@ Teckmon strives to make yoga accessible to people of all ages and skill levels t
 
 #### Weightlifter
 
-Teckmon loves weightlifting. She had her first coaching lesson at Coffee Gym in May 2016, and she was hooked! In the beginning, there are some up and down while learning the technique and dialing in with her nutrition. Now, she trains consistently to stay balanced mentally and physically. Her goal is to qualify and to compete in American Open in 2020. You can find her weightlifting journey [@teckmonster][teckmonster]. 
+Teckmon loves weightlifting. She had her first coaching lesson at Coffee Gym in May 2016, and she was hooked! In the beginning, there are some up and down while learning the technique and dialing in with her nutrition. Now, she trains consistently to stay balanced mentally and physically. Her goal is to qualify and compete in American Open in 2019/2020. You can find her weightlifting journey [@teckmonster][teckmonster]. 
 
 #### Everyday Life
 
-She finds creativity through engaging and volunteering in the local community, she sharpens her writing and coding skills through sharing content in Pick Up Strength. (she built this website with Jekyll and deploy blog posts via Terminal command line. ;) ) If you haven't heard from her, she is probably backpacking in the wilderness where there is no cellular access. Her latest trip was backpacking in the Skoki Loop in Banff, Alberta.
+She finds creativity through engaging and volunteering in the local community, she sharpens her writing and coding skills through sharing content in Pick Up Strength. She builds this website with Jekyll and deploys blog posts via Terminal command line. ;) If you haven't heard from her, she is probably backpacking in the wilderness where there is no cellular access. Her latest trip was backpacking in the Skoki Loop in Banff, Alberta.
 
 ## Pick Up Strength
 
