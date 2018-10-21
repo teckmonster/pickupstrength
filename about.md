@@ -14,19 +14,23 @@ Teckmon graduated with a degree in Industrial Engineering (I.E.) from Georgia Te
 
 #### Certified Yoga Instructor
 
-Teckmon has been practicing yoga for eight years and received her 200-hour Yoga Certification from YogaWorks in Atlanta under Becky Nickerson in 2018. Vinyasa flow is foundational to Teckmon’s yoga practice as she combines awareness of breath and movement while focusing on proper body alignment. She believes yoga is a wellness process that nourishes the body, mind, and soul. Teckmon strives to make yoga accessible to people of all ages and skill levels.
+Teckmon has been practicing yoga for eight years and received her 200-hour Yoga Certification from YogaWorks in Atlanta under Becky Nickerson in Spring 2018.  Vinyasa flow is foundational to Teckmon’s yoga practice as she combines awareness of breath and movement while focusing on proper body alignment. She believes yoga is a wellness process that nourishes the body, mind, and soul. 
+
+Teckmon strives to make yoga accessible to people of all ages and skill levels through her creative sequences. She incorporates the bus-stop method to break down challenging poses into 3 bus stops and allow students to make decisions where to go based on how they feel of the day. 
+
+Breathing and relaxation did not come at ease for Teckmon. Her breath was once choppy and short, and her muscles are always tight and tense. She enjoys working with students to guide them with some breathing exercises and building strength and confidence.
 
 #### Weightlifter
 
-Teckmon loves weightlifting. She had her first coaching lesson at Coffee Gym, and she was hooked! In the beginning, there are some up and down while learning the technique and dialing in with her nutrition. Now, she uses it to stay balanced mentally and physically. You can find all her weightlifting journey @teckmonster. 
+Teckmon loves weightlifting. She had her first coaching lesson at Coffee Gym in 2014, and she was hooked! In the beginning, there are some up and down while learning the technique and dialing in with her nutrition. Now, she trains consistently to stay balanced mentally and physically. You can find her weightlifting journey @teckmonster. 
 
 #### Everyday Life
 
-She finds creativity through engaging and volunteering in the local community, she sharpens her writing and coding skills through sharing content in Pick Up Strength. (she built this website with Jekyll and deploy blog posts via Terminal command line.) If you haven't heard from her, she is probably backpacking in the wilderness where there is no cellular access. Her latest trip was backpacking in the Skoki Loop in Banff, Alberta.
+She finds creativity through engaging and volunteering in the local community, she sharpens her writing and coding skills through sharing content in Pick Up Strength. (she built this website with Jekyll and deploy blog posts via Terminal command line. ;) ) If you haven't heard from her, she is probably backpacking in the wilderness where there is no cellular access. Her latest trip was backpacking in the Skoki Loop in Banff, Alberta.
 
 ## Pick Up Strength
 
-Teckmon will call herself a weird hummingbird. She loves to explore every single flowers and tree, her favorite is Tea Olive and a field of wildflowers. In Pick Up Strength, this place will fill with creativity, non-judgment, positivity, and a healthy dose of encouragement and curiosity from everywhere she gathers.
+Teckmon will call herself a weird hummingbird. She loves to explore every flowers and tree, her favorite is Tea Olive and a field of wildflowers. In Pick Up Strength, this place will fill with creativity, non-judgment, positivity, and a healthy dose of encouragement and curiosity from everything she gathers.
 
 ***
 
